@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blogs</title>
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet" />
+    <link href="./output.css" rel="stylesheet">
+</head>
+
+<body>
+    <section class="navbar">
+        <nav class="navbar px-2 sm:px-4 py-4 rounded ">
+            <div class="container flex flex-wrap items-center justify-between mx-auto">
+                <a href="https://mangeshrex.tech" class="sm:flex m-1 items-center">
+                    <!-- <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">MR.</span> -->
+                    <img src="./asset/logo.svg"
+                        class="h-8 px-5 self-center text-xl font-semibold whitespace-nowrap dark:text-white">
+                </a>
+                <div class="hidden w-full md:block md:w-auto" id="navbar-default">
+                    <ul
+                        class="flex uppercase flex-col p-4 mt-4 border rounded-lg  md:flex-row md:space-x-3 md:mt-0 md:text-sm md:font-medium md:border-0 ">
+                        <li>
+                            <a href="#" class="block py-2 pl-3 hover-underline-animation pr-2 rounded  ">Home /</a>
+                        </li>
+                        <li>
+                            <a href="#"
+                                class="block py-2 pl-3 hover-underline-animation  pr-2 rounded md:border-0 ">About /</a>
+                        </li>
+                        <li>
+                            <a href="#"
+                                class="block py-2 pl-3 pr-2  hover-underline-animation  rounded md:border-0 ">Projects
+                                /</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    </section>
+    <section id="greeting">
+        <div class="profile-icon">
+            <div class="flex justify-center">
+                <img class="h-50 w-auto rounded-lg" src="https://avatars.githubusercontent.com/u/82205152?v=4"
+                    alt="gh-profile">
+            </div>
+        </div>
+    </section>
+
+    <section id="blogs">
+        <div class="flex sm:mx-4 sm:my-4 justify-center flex-col-1 rounded-sm">
+            <div class="blog blog-1 sm:w-3/6 py-4 px-4 w-44 ">
+                <h1 class="sm:text-4xl" id="Brain Chips and BCI">
+                   <span><a href="./blogs/bci.html"> Brain Chips and BCI</a></span>
+                </h1>
+                <p style="text-align:justified;">The Brain Computer Interfacing technology is very advanced for the present but in the near future, this technology will make our work flow very efficient in day to day lives. This is a short blog from my research.<br />
+                    <br>
+                </p>
+                <strong>KEYWORDS: </strong>Brain Computer Interfacing, BCI
+            </div>
+            <div class="blog blog-2sm:w-3/6 py-4 px-4 w-44 ">
+                <h1 class="sm:text-4xl" id="Brain Chips and BCI">
+                   <span><a href="./blogs/bci.html">First Blog</a></span>
+                </h1>
+                <p style="text-align:justified;">BWAHAHAHAHAHAHAH<br />
+                    <br>
+                </p>
+                <strong>KEYWORDS: </strong>Hello World
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>

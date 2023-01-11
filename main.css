@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'General';
+  src: url(./asset/font/GeneralSans-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'GeneralL';
+  src: url(./asset/font/GeneralSans-Light.ttf);
+}
+
+@font-face {
+  font-family: 'GeneralBold';
+  src: url(./asset/font/GeneralSans-Bold.ttf);
+}
+
+html {
+  font-family: 'General';
+  /* background: black; */
+  scroll-behavior: smooth;
+  backdrop-filter: blue(10px);
+  color: #c0c0cf !important;
+  background-color: #121213 !important;
+}
+
+.blog {
+  background-color: #0d0d0e;
+  color: #c0c0cf;
+}
+
+.blog p {
+  color: #8e8e9d;
+  font-style: italic;
+}
+a {
+  text-decoration: none;
+  color:  #a2bed5;
+}
+
+span {
+  font-family: "General";
+  color: #a2bed5;
+}
