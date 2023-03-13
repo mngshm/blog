@@ -23,14 +23,17 @@ html {
   scroll-behavior: smooth;
   backdrop-filter: blue(10px);
   color: #c0c0cf !important;
-  background-color: #121213 !important;
+  background-color: black !important;
 }
 
 .blog {
-  background-color: #0d0d0e;
+  background-color: #0c0c0e ;
   color: #c0c0cf;
 }
 
+strong {
+  color: #a2bed5;
+}
 .blog p {
   color: #8e8e9d;
   font-style: italic;
