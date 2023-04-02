@@ -1,0 +1,87 @@
+@font-face {
+  font-family: JB-Bold;
+  src: url(SF-Pro-Display-Black.ttf);
+}
+@font-face {
+  font-family: JB-Regular;
+  src: url(SF-Pro-Display-Regular.ttf);
+}
+@font-face {
+  font-family: JB-Light;
+  src: url(SF-Pro-Display-Medium.ttf);
+}
+
+html {
+  display: grid; 
+  grid-row: 2;
+  justify-content: center;
+  background-color: black;
+  color: #d8d8d8;
+  scroll-padding: 5;
+  scroll-behavior: smooth;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav a {
+  padding: 10px; 
+}
+
+h1, h2, h3, h4, h5 {
+  font-style: bold;
+  font-family: "JB-Bold";
+}
+
+p {
+  font-family: "JB-Regular"
+}
+
+a {
+  font-family: 'JB-Regular';
+  text-decoration: none;
+  color: #d8d8d8;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #d8d8d8;
+  font-style: bold;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+article {
+  max-width: 800px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 576px){
+  html {
+    max-width: 600px;
+  }
+  article {
+    font-size: 15px;
+    padding: 10px;
+  }
+  p {
+    max-width: 500px;
+  }
+  img {
+    width: 550px;
+    height: 550px;
+  }
+}
