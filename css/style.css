@@ -1,6 +1,6 @@
 @font-face {
   font-family: JB-Bold;
-  src: url(SF-Pro-Display-Black.ttf);
+  src: url(SF-Pro-Display-Medium.ttf);
 }
 @font-face {
   font-family: JB-Regular;
@@ -8,22 +8,23 @@
 }
 @font-face {
   font-family: JB-Light;
-  src: url(SF-Pro-Display-Medium.ttf);
+  src: url(JetBrainsMono-Light.ttf);
 }
 
 html {
   display: grid; 
   grid-row: 2;
+  font-family: 'JB-Regular';
   justify-content: center;
-  background-color: black;
-  color: #d8d8d8;
+  background-color: #d8d8d8;
+  color: #000;
   scroll-padding: 5;
   scroll-behavior: smooth;
 }
 
 nav {
   display: flex;
-  justify-content: center;
+  justify-content: start;
 }
 
 nav a {
@@ -31,7 +32,6 @@ nav a {
 }
 
 h1, h2, h3, h4, h5 {
-  font-style: bold;
   font-family: "JB-Bold";
 }
 
@@ -42,22 +42,12 @@ p {
 a {
   font-family: 'JB-Regular';
   text-decoration: none;
-  color: #d8d8d8;
+  color: #000;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #d8d8d8;
-  font-style: bold;
-}
-
-img {
-  border-radius: 10px;
-}
-
-.title {
-  display: flex;
-  justify-content: center;
+  color: #000;
 }
 
 article {
@@ -65,23 +55,7 @@ article {
 }
 
 footer {
-  display: flex;
+  font-family: 'JB-RegularJ';
+  bottom: 0;
   justify-content: center;
-}
-
-@media (max-width: 576px){
-  html {
-    max-width: 600px;
-  }
-  article {
-    font-size: 15px;
-    padding: 10px;
-  }
-  p {
-    max-width: 500px;
-  }
-  img {
-    width: 550px;
-    height: 550px;
-  }
 }

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>Blog/archive.html</loc><lastmod>2023-04-29</lastmod><priority>1.0</priority></url>
+<url><loc>Blog/blog/PuneFOSS.html</loc><lastmod>2023-04-29</lastmod><priority>1.0</priority></url>
+<url><loc>Blog/blog/MumbaiFOSS.html</loc><lastmod>2023-04-29</lastmod><priority>1.0</priority></url>
+<url><loc>Blog/blog/bci.html</loc><lastmod>2023-04-29</lastmod><priority>1.0</priority></url>
+<url><loc>Blog/index.html</loc><lastmod>2023-04-29</lastmod><priority>1.0</priority></url>
+</urlset>
