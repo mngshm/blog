@@ -22,6 +22,12 @@ html {
   scroll-behavior: smooth;
 }
 
+@media (max-width: 576px){
+	html{
+		padding: 20px;
+	}
+}
+
 nav {
   display: flex;
   justify-content: start;
@@ -36,7 +42,8 @@ h1, h2, h3, h4, h5 {
 }
 
 p {
-  font-family: "JB-Regular"
+  font-family: "JB-Regular";
+  font-size: 20px;
 }
 
 a {
