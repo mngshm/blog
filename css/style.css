@@ -12,6 +12,7 @@
 }
 
 html {
+  max-width: 1200px;
   display: grid; 
   grid-row: 2;
   font-family: 'JB-Regular';
@@ -29,12 +30,20 @@ html {
 }
 
 nav {
-  display: flex;
-  justify-content: start;
+ display: flex;
+  color: #000;
+
 }
 
 nav a {
-  padding: 10px; 
+  font-size: 18px;
+  
+  padding-right: 5px;
+}
+
+ul, li {
+  list-style: none;
+  font-size: 20px;
 }
 
 h1, h2, h3, h4, h5 {
@@ -54,15 +63,16 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #000;
+  background-color: #000;
+  color: #d8d8d8;
 }
 
 article {
   max-width: 800px;
+  padding-bottom: 20px;
 }
 
 footer {
   font-family: 'JB-RegularJ';
   bottom: 0;
-  justify-content: center;
 }
