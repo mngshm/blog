@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <atom:link href="./rss.xml" rel="self" type="application/rss+xml" />
-<title>Book Review</title>
+<title>Book Review - Surely you're joking mr.feynman</title>
 <description></description>
 <link>./rss.xml/</link>
-<lastBuildDate></lastBuildDate>
+<lastBuildDate>Invalid date: date</lastBuildDate>
 
 <item>
 <guid>./</guid>
 <link>./</link>
-<pubDate></pubDate>
+<pubDate>Sun, 14 Oct 643049 08:00:00 +0000</pubDate>
 <title> HOME </title>
 <description><![CDATA[
 
