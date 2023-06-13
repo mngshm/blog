@@ -41,6 +41,12 @@ nav a {
   margin-right: 5px;
 }
 
+.adjust {
+  display: flex; 
+  justify-content: space-arounde
+  height: 500px;
+  width: 450px;
+}
 ul, li {
   list-style: none;
   font-size: 20px;
