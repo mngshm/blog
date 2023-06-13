@@ -2,15 +2,155 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <atom:link href="./rss.xml" rel="self" type="application/rss+xml" />
-<title>Book Review - Surely you're joking mr.feynman</title>
+<title>test</title>
 <description></description>
 <link>./rss.xml/</link>
-<lastBuildDate>Invalid date: date</lastBuildDate>
+<lastBuildDate></lastBuildDate>
 
 <item>
 <guid>./</guid>
 <link>./</link>
-<pubDate>Sun, 14 Oct 643049 08:00:00 +0000</pubDate>
+<pubDate></pubDate>
+<title></title>
+<description><![CDATA[
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="icon" type="image/png" href="./favicon.png">
+  <link rel="stylesheet" type="text/css" href="../css/style.css">
+<title>HOME &mdash; Mangesh's Blog</title>
+</head>
+
+<div style="justify-content: start; padding-top: 5rem; ">
+  <img src="./img/m.png" style="border-radius: 500px;" height="100px" width="100px" 
+    alt="avatar">
+    <h2>Hi I'm Mangesh and I'm learning to write!</h2>
+</div>
+
+  <hr> 
+<article>
+    <h2>Blogs</h2>
+<h1 id=" Resources I use " style="font-size:1.2em;border-bottom: none; padding-bottom: 0em;">
+  <a href="././blog/resources.html"> Resources I use </a>
+</h1>
+
+<h1 id=" Experience at PuneFOSS'23 " style="font-size:1.2em;border-bottom: none; padding-bottom: 0em;">
+  <a href="././blog/PuneFOSS.html"> Experience at PuneFOSS'23 </a>
+</h1>
+
+<h1 id=" MumbaiFOSS'23 " style="font-size:1.2em;border-bottom: none; padding-bottom: 0em;">
+  <a href="././blog/MumbaiFOSS.html"> MumbaiFOSS'23 </a>
+</h1>
+
+<h1 id=" A Blog about BCI's " style="font-size:1.2em;border-bottom: none; padding-bottom: 0em;">
+  <a href="././blog/bci.html"> A Blog about BCI's </a>
+</h1>
+
+</article>
+<footer>
+  <h4>Powered by computer hardware.</h4>
+
+<nav>
+<a href="./rss.xml">rss</a>
+      <a href="https://github.com/Mangeshrex">github</h1>
+        <a href="https://mangeshrex.tech">portfolio</a>
+        <a href="t.me/mangeshrex">telegram</a>
+</nav>
+
+</footer>
+</body>
+
+]]></description>
+</item>
+</channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="./rss.xml" rel="self" type="application/rss+xml" />
+<title>Book Review - Surely You're Joking Mr. Feynman</title>
+<description></description>
+<link>./rss.xml/</link>
+<lastBuildDate></lastBuildDate>
+
+<item>
+<guid>./</guid>
+<link>./</link>
+<pubDate></pubDate>
+<title> HOME </title>
+<description><![CDATA[
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="icon" type="image/png" href="./favicon.png">
+  <link rel="stylesheet" type="text/css" href="../css/style.css">
+<title>HOME &mdash; Mangesh's Blog</title>
+</head>
+
+<div style="justify-content: start; padding-top: 5rem; ">
+  <img src="./img/m.png" style="border-radius: 500px;" height="100px" width="100px"
+    alt="avatar">
+    <h2>Hi I'm Mangesh and I'm learning to write!</h2>
+</div>
+<hr>
+
+<article>
+<h1 style="display: none;"> HOME </h1>
+ <h1 id=" Surely you're Joking Mr.Feynman " style="font-size:1.3em;border-bottom: none; padding-bottom: 0em;">
+  <a href="././blog/SUJMF.html"> Surely you're Joking Mr.Feynman </a>
+</h1>
+
+<h1 id=" Resources I use " style="font-size:1.3em;border-bottom: none; padding-bottom: 0em;">
+  <a href="././blog/resources.html"> Resources I use </a>
+</h1>
+
+<h1 id=" Experience at PuneFOSS'23 " style="font-size:1.3em;border-bottom: none; padding-bottom: 0em;">
+  <a href="././blog/PuneFOSS.html"> Experience at PuneFOSS'23 </a>
+</h1>
+
+<h1 id=" MumbaiFOSS'23 " style="font-size:1.3em;border-bottom: none; padding-bottom: 0em;">
+  <a href="././blog/MumbaiFOSS.html"> MumbaiFOSS'23 </a>
+</h1>
+
+<h1 id=" A Blog about BCI's " style="font-size:1.3em;border-bottom: none; padding-bottom: 0em;">
+  <a href="././blog/bci.html"> A Blog about BCI's </a>
+</h1>
+
+<footer>
+  <h4>Powered by computer hardware.</h4>
+
+<nav>
+<a href="./rss.xml">rss</a>
+      <a href="https://github.com/Mangeshrex">github</h1>
+        <a href="https://mangeshrex.tech">portfolio</a>
+        <a href="t.me/mangeshrex">telegram</a>
+</nav>
+
+</footer>
+
+]]></description>
+</item>
+</channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="./rss.xml" rel="self" type="application/rss+xml" />
+<title>Book Review - Surely You're Joking Mr. Feynman</title>
+<description></description>
+<link>./rss.xml/</link>
+<lastBuildDate></lastBuildDate>
+
+<item>
+<guid>./</guid>
+<link>./</link>
+<pubDate></pubDate>
 <title> HOME </title>
 <description><![CDATA[
 
