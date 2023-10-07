@@ -1,26 +1,10 @@
-@font-face {
-  font-family: JB-Bold;
-  src: url(SF-Pro-Display-Medium.ttf);
-}
-@font-face {
-  font-family: JB-Regular;
-  src: url(SF-Pro-Display-Regular.ttf);
-}
-@font-face {
-  font-family: JB-Light;
-  src: url(JetBrainsMono-Light.ttf);
-}
-
 html {
   max-width: 1200px;
-  display: grid; 
-  grid-row: 2;
-  font-family: 'JB-Regular';
+  margin: auto;
+  font-family:  "Sans, sans-serif";
   justify-content: center;
   background-color: #d8d8d8;
   color: #000;
-  scroll-padding: 5;
-  scroll-behavior: smooth;
 }
 
 @media (max-width: 576px){
@@ -29,40 +13,74 @@ html {
 	}
 }
 
-nav {
- display: flex;
-  color: #000;
-
+/* Base styles for the landscape image */
+.landscape-image {
+    width: 100%;
+    height: auto;
+    max-width: 100%; /* Ensure the image doesn't exceed its natural width */
+}
+@media (max-width: 767px) {
+    .landscape-image {
+        max-width: 100%;
+    }
 }
 
-nav a {
-  font-size: 18px;
-  
-  margin-right: 5px;
+@media (min-width: 768px) and (max-width: 991px) {
+    .landscape-image {
+        max-width: 80%;
+    }
 }
 
-.adjust {
-  display: flex; 
-  justify-content: space-arounde
-  height: 500px;
-  width: 450px;
+@media (min-width: 992px) and (max-width: 1199px) {
+    .landscape-image {
+        max-width: 60%;
+    }
 }
+
+@media (min-width: 1200px) {
+    .landscape-image {
+        max-width: 50%;
+    }
+}
+
+.blog-main {
+	display: flex;
+	align-items: center;
+}
+
+.blog-main a {
+	margin-left: 10px;
+}
+
 ul, li {
-  list-style: none;
-  font-size: 20px;
+  font-size: 15px;
+  list-style-type: circle;
 }
 
-h1, h2, h3, h4, h5 {
-  font-family: "JB-Bold";
+@media (max-width: 767px) {
+    ul, li {
+	    font-size: 15px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    ul, li {
+	    font-size: 12px;
+    }
+}
+@media (min-width: 1200px) {
+    ul,li {
+	    font-size: 10px;
+    }
 }
 
 p {
-  font-family: "JB-Regular";
+  max-width: 1200px;
+  font-family: "Sans, sans-serif";
   font-size: 20px;
 }
 
 a {
-  font-family: 'JB-Regular';
+  font-family:"Sans, sans-serif";
   text-decoration: none;
   color: #000;
 }
@@ -79,6 +97,7 @@ article {
 }
 
 footer {
-  font-family: 'JB-RegularJ';
+	margin-top: 10px;
+  font-family: 'Sans, sans-serif';
   bottom: 0;
 }
