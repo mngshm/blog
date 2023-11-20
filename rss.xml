@@ -2,15 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <atom:link href="./rss.xml" rel="self" type="application/rss+xml" />
-<title>Living Alone</title>
-<description> 2023-10-25</description>
+<title>Confused as a Student</title>
+<description>I am an 18 year old student and Free Software Enthusiast from India. I believe in the hacker and tinkerer culture and have been trying to be wonk about learning different things.
+    
+    
+    I might say, I'm not a very good/great coder but I'm trying to get more and more involved into coding. But, as running behind something won't help you reach it, so I just keep exploring.
+    
+    Currently, I'm based in bangalore because of my internship at FOSS United and I volunteer for them around a couple of things. I am a third year diploma student, and I hate academics which is why I took leave from college and shifted to bangalore because why not ?
+    
+    
+    I was never a geek / technology guy from my childhood like most are. I was a hardcore and full time music player. I play tabla, used to play flute for a couple of years. I randomly got in tech due to some
+random instagram posts about linux. And, then my dad got me a old dell laptop (without battery fixed) and got linux installed on it on 13 Oct, 2020. And since, then I have been a full time linux user.
+
+    
+    
+    I am a huge photography freak too, I like taking pictures of villagers, kids and basically anything which shows a different kind of emotion. I also do like b/w photography. For me every photograph is something which tries to speak and b/w photographs are very silent. But, from the recent times I have stopped taking pictures and I might get back into it soon.
+
+
+
+    Blogs
+ HOME 
+ 
+   2023-11-21</description>
 <link>./rss.xml/</link>
 <lastBuildDate>Invalid date: date</lastBuildDate>
 
 <item>
 <guid>./</guid>
 <link>./</link>
-<pubDate>Tue, 14 Feb 643065 04:26:40 +0000</pubDate>
+<pubDate>Mon, 14 Sep 643068 01:20:00 +0000</pubDate>
 <title> HOME </title>
 <description><![CDATA[
 
@@ -24,8 +44,35 @@
   <link rel="stylesheet" type="text/css" href="../css/style.css">
 <title>HOME &mdash; mangesh.xyz</title>
 </head>
+<img class="landscape-image" src="./img/cow.png" style="max-width: 1200px" height="auto" width="1000px" alt="b/w">
+  <!--img src="./img/m.png" style="border-radius: 500px;" height="100px" width="100px"
+    alt="avatar"-->
+    <h2>Hi, I'm Mangesh</h2>
+    <p>I am an 18 year old student and Free Software Enthusiast from India. I believe in the hacker and tinkerer culture and have been trying to be wonk about learning different things.
+    <br/>
+    <br/>
+    I might say, I'm not a very good/great coder but I'm trying to get more and more involved into coding. But, as running behind something won't help you reach it, so I just keep exploring.
+    <br/>
+    Currently, I'm based in bangalore because of my internship at <b><a href="https://fossunited.org/about">FOSS United</a></b> and I volunteer for them around a couple of things. I am a third year diploma student, and I hate academics which is why I took leave from college and shifted to bangalore because why not ?
+    <br />
+    <br/>
+    I was never a geek / technology guy from my childhood like most are. I was a hardcore and full time music player. I play tabla, used to play flute for a couple of years. I randomly got in tech due to some
+random instagram posts about linux. And, then my dad got me a old dell laptop (without battery fixed) and got linux installed on it on <b>13 Oct, 2020</b>. And since, then I have been a full time linux user.
+
+    <br/>
+    <br/>
+    I am a huge photography freak too, I like taking pictures of villagers, kids and basically anything which shows a different kind of emotion. I also do like b/w photography. For me every photograph is something which tries to speak and b/w photographs are very silent. But, from the recent times I have stopped taking pictures and I might get back into it soon.
+</div>
+
+<article>
+    <h2>Blogs</h2>
 <h1 style="display: none;"> HOME </h1>
- <div class="blog-main" id=" Living Alone" style="font-size:1.5em;">
+ <div class="blog-main" id=" Confused as a Student " style="font-size:1.5em;">
+  <p><i> 2023-11-21</i></p>
+  <a style="font-style: bold" href="././blog/confusion.html"> Confused as a Student </a>
+</div>
+
+<div class="blog-main" id=" Living Alone" style="font-size:1.5em;">
   <p><i> 2023-10-25</i></p>
   <a style="font-style: bold" href="././blog/livingalone.html"> Living Alone</a>
 </div>
@@ -60,9 +107,10 @@
   <a style="font-style: bold" href="././blog/bci.html"> A Blog about BCI's </a>
 </div>
 
+  </article> 
+
 <footer>
   <h4>Powered by computer hardware.</h4>
-
 <nav>
 <a href="./rss.xml">rss</a>
       <a href="https://github.com/Mangeshrex">github</h1>

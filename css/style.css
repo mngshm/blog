@@ -1,7 +1,7 @@
 html {
   max-width: 1200px;
   margin: auto;
-  font-family:  "Sans, sans-serif";
+  font-family: "Sans, sans-serif";
   justify-content: center;
   background-color: #d8d8d8;
   color: #000;
@@ -19,6 +19,7 @@ html {
     height: auto;
     max-width: 100%; /* Ensure the image doesn't exceed its natural width */
 }
+
 @media (max-width: 767px) {
     .landscape-image {
         max-width: 100%;
@@ -53,13 +54,13 @@ html {
 }
 
 ul, li {
-  font-size: 15px;
+  font-size: 10px;
   list-style-type: circle;
 }
 
 @media (max-width: 767px) {
     ul, li {
-	    font-size: 15px;
+	    font-size: 12px;
     }
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -69,7 +70,7 @@ ul, li {
 }
 @media (min-width: 1200px) {
     ul,li {
-	    font-size: 10px;
+	    font-size: 15px;
     }
 }
 
