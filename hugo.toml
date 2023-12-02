@@ -1,0 +1,25 @@
+baseURL = 'https://mangesh.xyz/'
+languageCode = 'en-us'
+title = 'Words of a terrible kid'
+theme = 'hugo-ink'
+paginate = 5
+
+[params]
+avatar = "https://avatars.githubusercontent.com/u/82205152?v=4"
+
+[module]
+[[module.imports]]
+subtitle = "A place to share my words"
+path = 'hugo-ink'
+
+mode = "auto"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
