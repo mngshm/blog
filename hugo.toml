@@ -23,3 +23,8 @@ weight = 1
 name = "All posts"
 url = "/posts"
 weight = 2
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
