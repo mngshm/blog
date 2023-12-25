@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Christmas Night With Tmp Files - Words of a terrible kid</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta itemprop="name" content="Christmas Night With Tmp Files">
+<meta itemprop="description" content="This is a blog that will help me always remember that checking the command twice before running is the best way to not lead towards any fuck ups on a Linux machine. and also to give me trauma even ahead in the future.
+I noticed tmp files I was working on some things inside the terminal and I noticed that there are a lot of temporary files with names ~/.bash_history-some id."><meta itemprop="datePublished" content="2023-12-26T01:36:25+05:30" />
+<meta itemprop="dateModified" content="2023-12-26T01:36:25+05:30" />
+<meta itemprop="wordCount" content="965">
+<meta itemprop="keywords" content="" /><meta property="og:title" content="Christmas Night With Tmp Files" />
+<meta property="og:description" content="This is a blog that will help me always remember that checking the command twice before running is the best way to not lead towards any fuck ups on a Linux machine. and also to give me trauma even ahead in the future.
+I noticed tmp files I was working on some things inside the terminal and I noticed that there are a lot of temporary files with names ~/.bash_history-some id." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://mangesh.xyz/posts/christmas-night-with-tmp-files/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-12-26T01:36:25+05:30" />
+<meta property="article:modified_time" content="2023-12-26T01:36:25+05:30" />
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Christmas Night With Tmp Files"/>
+<meta name="twitter:description" content="This is a blog that will help me always remember that checking the command twice before running is the best way to not lead towards any fuck ups on a Linux machine. and also to give me trauma even ahead in the future.
+I noticed tmp files I was working on some things inside the terminal and I noticed that there are a lot of temporary files with names ~/.bash_history-some id."/>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="screen" href="https://mangesh.xyz/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://mangesh.xyz/css/main.css" />
+
+        <link id="dark-scheme" rel="stylesheet" type="text/css" href="https://mangesh.xyz/css/dark.css" />
+
+	<script src="https://mangesh.xyz/js/feather.min.js"></script>
+	
+		<script src="https://mangesh.xyz/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper">
+		<div class="header">
+	
+		<div class="avatar">
+			<a href="https://mangesh.xyz/">
+				<img src="https://avatars.githubusercontent.com/u/82205152?v=4" alt="Words of a terrible kid" />
+			</a>
+		</div>
+	
+	<h1 class="site-title"><a href="https://mangesh.xyz/">Words of a terrible kid</a></h1>
+	<div class="site-description"><nav class="nav social">
+			<ul class="flat"><li><a href="/index.xml" title="RSS"><i data-feather="rss"></i></a></li></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">Home</a>
+			</li>
+			
+			<li>
+				<a href="/posts">All posts</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post">
+			<div class="post-header">
+				
+					<div class="meta">
+						<div class="date">
+							<span class="day">26</span>
+							<span class="rest">Dec 2023</span>
+						</div>
+					</div>
+				
+				<div class="matter">
+					<h1 class="title">Christmas Night With Tmp Files</h1>
+				</div>
+			</div>
+					
+			<div class="markdown">
+				<p>This is a blog that will help me always remember that checking the command twice before running is the best way to not lead towards any fuck ups on a Linux machine. and also to give me trauma even ahead in the future.</p>
+<h3 id="i-noticed-tmp-files">I noticed tmp files</h3>
+<p>I was working on some things inside the terminal and I noticed that there are a lot of temporary files with names ~/.bash_history-some id.tmp. I thought that these files must&rsquo;ve got created when I left my laptop idle today yesterday (24 December 2023) from 2:00 to 4:36 PM because that was the time when I slept out of the blue on my chair. After I woke up I found that the laptop battery was dead to 4% and it was on suspend mode. So, I did a force reboot as pressing the power button wasn&rsquo;t turning it on because of less battery.</p>
+<p>After that, I found these files in my home directory. I tried deleting them but they weren&rsquo;t getting deleted. Why? because I was no more the user of those files.</p>
+<p><img src="/tmpfiles.png" alt="temp files"></p>
+<p>It was very ironic looking at this output, it basically said that someone called <code>users</code>. And continuing ahead I noticed that I was no longer the owner of my whole home directory itself. At this moment, I was thinking that today is going to be fun and hectic because I would be able to learn a lot while fixing this issue. (And indeed i learned a very big lesson)</p>
+<p><img src="/perms.png" alt="user was the owner"></p>
+<p>I was talking with some of telegram friends at the same time discussing this with them. And one of my friend after asking told me the reason why these temporary files were getting created. And, according to him it was</p>
+<blockquote>
+<p>bash wasn&rsquo;t able to append command history to ~/.bash_history due to messed-up permissions</p>
+</blockquote>
+<p>which I was pretty much not expecting because there was nothing inside these directories and I had no clue of this until he told me this because my ~/.bash_history was still getting rewritten with a newer set of commands which I was running.</p>
+<p>I wanted to know exactly when all of these files were getting created. I quickly did an <code>ls -lrtha ~/.*tmp*</code> and I saw that these files were getting created from November 5, 2023, If this was a hack then there would&rsquo;ve been a specific time or event listener when these files were getting created but it was nothing like that. And common no hacker would make a plan to make empty tmp files in the home directory of a user. (I forgot to take a screenshot of the output of -lrtha).</p>
+<p>All of us were expecting that I had downloaded some wrong scripts and ran them in my home directory, but god damn I do not remember downloading anything other than CSV files, a couple of mp3/mp4&rsquo;s, some flac, and images (could&rsquo;ve been a source tho). But it was nothing like that</p>
+<p>The suspicious actor in the whole drama was the user group <code>users</code>. To everyone, I said that I did not run that command, because when I had done <code>cat ~/.bash_history | grep -i &quot;users&quot;</code> and I found nothing relevant.</p>
+<h3 id="users">Users</h3>
+<p>I ran <code> ls -lrtha /home</code> and there as well the owner of this home partition of my home directory was users. All of friends showed me the output with their home directories owned by <code> user:group</code>. But it was me who had it as <code>users:users</code> and I was like &ldquo;god damn tf is happening&rdquo;. After checking out with <code>groups</code> command the output was in the following way</p>
+<blockquote>
+<p><code>input users wheel</code></p>
+</blockquote>
+<p>Of course, it wasn&rsquo;t like I wanted it to be. I with the help of my friends tried investigating everything we could and that was the moment when <a href="https://cyberknight.devpopped">cyberknight</a> up asking me to check if there was something relevant to <code>users</code> in the ~/.bash_history of my root user.</p>
+<p>And Yes, I eventually ran this command back in the past:
+<img src="/image_000.png" alt="my bad"></p>
+<p>It was the moment, when I was feeling very dumb and they were apparently laughing. I was finally fed up of myself now (P.S: I was already a lot stressed from 1-2 days before that) and this turned out to be the moment that was like a cherry on top of it.</p>
+<h3 id="the-fix">The Fix</h3>
+<p>As of now, I came up with the idea that all I have to do is to create a new usergroup with the name mangesh and add my user mangesh to it. And again take back the ownership of my /home/mangesh directory. I did that, after doing this I took ownership of all the tmp files in my home directory and removed them and this time it worked. This might be the temporary fix, but I want to temporarily fix this on purpose because, this way I can check for more issues that can come ahead because of users and permissions.</p>
+<p>Apparently, according to me I was supposed to run the users command with some different parameters and for different user or in a chroot environment. But, I ran it in my local system itself. That&rsquo;s why I thought could&rsquo;ve gone wrong. I don&rsquo;t remember exactly why I ran that command.</p>
+<h3 id="realization">Realization</h3>
+<p>Down the lane, this issue was a great help to me from a positive perspective. I learned a lot of new commands and flags and did a lot of searching on the internet.</p>
+<p>And, every moment I had the realization that Linux is so great that it gives me the freedom to peek and capture every moment of myself. Windows would&rsquo;ve never given me the freedom to see when temporary files were getting created into my system or when I ran the command. I learned a lot of lessons (which I don&rsquo;t want to reveal), and I will fix all my mistakes from now on.</p>
+
+			</div>
+
+			<div class="tags">
+				
+					
+				
+			</div></div>
+	</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div>Made with <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+<script>feather.replace()</script>
+</body>
+</html>
