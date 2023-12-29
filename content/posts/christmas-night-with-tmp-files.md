@@ -35,7 +35,7 @@ I ran ``` ls -lrtha /home``` and there as well the owner of this home partition 
 
 > `input users wheel`
 
-Of course, it wasn't like I wanted it to be. I with the help of my friends tried investigating everything we could and that was the moment when [cyberknight](https://cyberknight.devpopped) up asking me to check if there was something relevant to ```users``` in the ~/.bash_history of my root user. 
+Of course, it wasn't like I wanted it to be. I with the help of my friends tried investigating everything we could and that was the moment when [cyberknight](https://cyberknight777.dev) popped up asking me to check if there was something relevant to ```users``` in the ~/.bash_history of my root user. 
 
 And Yes, I eventually ran this command back in the past: 
 ![my bad](/image_000.png)
