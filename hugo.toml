@@ -7,6 +7,8 @@ paginate = 5
 [params]
 avatar = "https://avatars.githubusercontent.com/u/82205152?v=4"
 
+subtitle = "Jack of all trades, Master of none | Student | Thinker"
+
 [module]
 [[module.imports]]
 subtitle = "A place to share my words"
