@@ -1,7 +1,7 @@
 +++
 title = 'Why Own a Website'
 date = 2024-01-25T02:51:03+05:30
-draft = true
+draft = false 
 +++
 Note: This post is subject to errors (grammatical or more) as i'm writing this to give a try at writing something in one go and at 3:00 AM. Pardon any errors!
 

@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mangesh.xyz/posts/christmas-night-with-tmp-files/</loc>
-    <lastmod>2023-12-26T01:36:25+05:30</lastmod>
-  </url><url>
     <loc>https://mangesh.xyz/posts/</loc>
-    <lastmod>2023-12-26T01:36:25+05:30</lastmod>
+    <lastmod>2024-01-25T02:51:03+05:30</lastmod>
+  </url><url>
+    <loc>https://mangesh.xyz/posts/why-own-a-website/</loc>
+    <lastmod>2024-01-25T02:51:03+05:30</lastmod>
   </url><url>
     <loc>https://mangesh.xyz/</loc>
+    <lastmod>2024-01-25T02:51:03+05:30</lastmod>
+  </url><url>
+    <loc>https://mangesh.xyz/posts/christmas-night-with-tmp-files/</loc>
     <lastmod>2023-12-26T01:36:25+05:30</lastmod>
   </url><url>
     <loc>https://mangesh.xyz/posts/my-first-post/</loc>
