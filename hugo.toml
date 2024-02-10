@@ -26,7 +26,17 @@ name = "All posts"
 url = "/posts"
 weight = 2
 
+[[menu.main]]
+name = "Uses"
+url = "/uses"
+weight = 3
+
 [[params.social]]
 name = "RSS"
 icon = "rss"
 url = "/index.xml"
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/mangeshrex"
