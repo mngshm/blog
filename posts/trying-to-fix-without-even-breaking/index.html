@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Trying to Fix Without Even Breaking - Words of a terrible kid</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta itemprop="name" content="Trying to Fix Without Even Breaking">
+<meta itemprop="description" content="So, a few days ago (2 weeks probably) I noticed a lot of heat on the bottom side of my laptop only when I was plugged in. So, I started looking up solutions on the internet and installed auto-cpufreq and also started using thermald which I knew before too but had not installed on my Thinkpad t490. So, I did and casually I thought that I would also additionally install and configure thermald."><meta itemprop="datePublished" content="2024-02-18T15:07:26+05:30" />
+<meta itemprop="dateModified" content="2024-02-18T15:07:26+05:30" />
+<meta itemprop="wordCount" content="927">
+<meta itemprop="keywords" content="" /><meta property="og:title" content="Trying to Fix Without Even Breaking" />
+<meta property="og:description" content="So, a few days ago (2 weeks probably) I noticed a lot of heat on the bottom side of my laptop only when I was plugged in. So, I started looking up solutions on the internet and installed auto-cpufreq and also started using thermald which I knew before too but had not installed on my Thinkpad t490. So, I did and casually I thought that I would also additionally install and configure thermald." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://mangesh.xyz/posts/trying-to-fix-without-even-breaking/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-02-18T15:07:26+05:30" />
+<meta property="article:modified_time" content="2024-02-18T15:07:26+05:30" />
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Trying to Fix Without Even Breaking"/>
+<meta name="twitter:description" content="So, a few days ago (2 weeks probably) I noticed a lot of heat on the bottom side of my laptop only when I was plugged in. So, I started looking up solutions on the internet and installed auto-cpufreq and also started using thermald which I knew before too but had not installed on my Thinkpad t490. So, I did and casually I thought that I would also additionally install and configure thermald."/>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="screen" href="https://mangesh.xyz/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://mangesh.xyz/css/main.css" />
+
+        <link id="dark-scheme" rel="stylesheet" type="text/css" href="https://mangesh.xyz/css/dark.css" />
+
+	<script src="https://mangesh.xyz/js/feather.min.js"></script>
+	
+		<script src="https://mangesh.xyz/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper">
+		<div class="header">
+	
+		<div class="avatar">
+			<a href="https://mangesh.xyz/">
+				<img src="https://avatars.githubusercontent.com/u/82205152?v=4" alt="Words of a terrible kid" />
+			</a>
+		</div>
+	
+	<h1 class="site-title"><a href="https://mangesh.xyz/">Words of a terrible kid</a></h1>
+	<div class="site-description"><p>Jack of all trades, Master of none | Student | Thinker</p><nav class="nav social">
+			<ul class="flat"><li><a href="/index.xml" title="RSS"><i data-feather="rss"></i></a></li><li><a href="https://github.com/mangeshrex" title="Github"><i data-feather="github"></i></a></li></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">Home</a>
+			</li>
+			
+			<li>
+				<a href="/posts">All posts</a>
+			</li>
+			
+			<li>
+				<a href="/uses">Uses</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post">
+			<div class="post-header">
+				
+					<div class="meta">
+						<div class="date">
+							<span class="day">18</span>
+							<span class="rest">Feb 2024</span>
+						</div>
+					</div>
+				
+				<div class="matter">
+					<h1 class="title">Trying to Fix Without Even Breaking</h1>
+				</div>
+			</div>
+					
+			<div class="markdown">
+				<p>So, a few days ago (2 weeks probably) I noticed a lot of heat on the bottom side of my laptop only when I was plugged in. So, I started looking up solutions on the internet and installed auto-cpufreq and also started using thermald which I knew before too but had not installed on my Thinkpad t490. So, I did and casually I thought that I would also additionally install and configure thermald. I set the start threshold and stop threshold to 20% and 80%.</p>
+<p>For those of you who don&rsquo;t know TLP - it is a tool that is used to optimize battery health and keep it healthy.</p>
+<h5 id="the-so-called-problem-starts">The so-called &ldquo;problem&rdquo; starts</h5>
+<p>After some time, I was driven into the work I was doing before configuring all these tools. The battery came to 36% and I plugged it in, after like 15-20 minutes I noticed that it wasn&rsquo;t charging (P.S.: this was my TLP). And this was when the drama started, I was scared thinking that my battery was dead, but one of my friend suggested checking it with <code>upower</code> and I did, and that&rsquo;s when I found out that the charge-cycles on this battery had already been crossed over to 1220. Which no doubt was more than what a battery should have. The battery capacity went down to 79.8% which was also pretty much bad, but the laptop used to give me a good 5-6 hours of use cycle. So, I was kind of scared and the thought which struck my mind the whole time was that &ldquo;Thinkpad accessories are damn costly, this battery replacement would cost me over 6-7k on minimum&rdquo;. And because of all this overthinking and stressed environment, I forgot that I had the damn tlp service running with the start threshold voltage set to 20%. I ran quickly to the Lenovo service center thinking the battery went dead as it was obvious looking at those more charge cycles I had.</p>
+<p>I applied for the replacement procedure and paid an advance money of 2k. In total, I had to pay 6.5k INR (500rs was a student discount). Hence after 2 days, I got the so-called &ldquo;new&rdquo; battery from the store and after coming home I noticed that the service center kind of some scam with me because the replacement battery wasn&rsquo;t able to last longer than 3 hours, and it had also crossed charge cycles over 400 and in addition to this the model number of the battery was different than my original battery, but the person was not ready to listen to me at all. So, it was obvious that they thought of me as someone who won&rsquo;t pay much attention and won&rsquo;t care much. But, I am someone who thinks so much so I made a complaint and we got another replacement battery after 4-5 days. The day before yesterday, I went over and installed that new battery. It was the perfect battery with N/A charge cycles and a capacity of 100% which could easily run for over 7 hours.</p>
+<p>I went home, and again installed TLP and configured it with the start threshold and stop threshold to 40-80. started working on it.</p>
+<p>Note: TLP starts applying the threshold voltage configuration after a reboot.</p>
+<p>And I was working and making a presentation for a Linux session where I was going to teach my juniors a bit about Linux and FOSS. I woke up early that day after sleeping at 3:30 (1-3:30 was working on the presentation) and started planning out the structure of my talk. The battery at this moment was 50%, so I thought I&rsquo;d charge it as the session was going to be almost 2 hours. I plugged in and noticed that it wasn&rsquo;t charging (P.S.: even this time it was TLP). I had forgotten that TLP was the one who was preventing the battery from charging.</p>
+<p>I called the service center again, and told them about the person. That person being from a Tier-II city had no idea what TLP was and did not even think of inquiring about anything like this. Me being in all this drama forgot about TLP. So, we applied for another battery replacement (3rd time), I came back home and was working on power plugged in (at 43%), so there was no chance I would notice after the battery got below 40% and started charging.</p>
+<p>Today (18th Feb 2024), while I was watching <a href="https://www.youtube.com/watch?v=KyYsVeYzbik">The Hacktivist</a> which is kind of based on reverse engineering. All of a sudden, I remembered the word TLP. I quickly stopped the service, unplugged, and was waiting till the battery dropped to below 40%. And boom, it was charging!!</p>
+<p>The very moment, I felt that all of these 2 weeks of unnecessary stress, and overthinking was uncalled for. I had to just think of TLP and god damn turn the service off and all of this wouldn&rsquo;t have happened 😂.</p>
+<p>Now, I have two working batteries xD.
+<img src="/batteries.jpg" alt="working batteries"></p>
+<h4 id="the-good">The Good</h4>
+<p>Regardless of all these bad experiences, I did a lot of research on reading on the r/thinkpad subreddit and collected good info about Lithium Ion batteries and many tools to diagnose issues around it. All of this also taught me that thinking a lot over something does nothing good to either you or the situation. So, it&rsquo;s better to be calm and not care much about what&rsquo;s going on. Gotta say I learned a lot from the last 2 weeks.</p>
+<p>Maybe, I will also post about the whole replacement and battery-choosing process for a Thinkpad, trying to explain stuff.</p>
+
+			</div>
+
+			<div class="tags">
+				
+					
+				
+			</div></div>
+	</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div>Made with <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+<script>feather.replace()</script>
+</body>
+</html>
