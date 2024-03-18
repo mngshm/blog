@@ -6,28 +6,375 @@
     <description>Recent content in Tags on Words of a terrible kid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="https://mangesh.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mangesh.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
     <item>
-      <title>blue</title>
-      <link>https://mangesh.xyz/tags/blue/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://mangesh.xyz/tags/blue/</guid>
-      <description></description>
+      <title>Making Parents Happy</title>
+      <link>https://mangesh.xyz/posts/making-parents-happy/</link>
+      <pubDate>Mon, 18 Mar 2024 22:02:54 +0530</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/making-parents-happy/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been almost 4-5+ years since I started feeling negative about the Indian Education System and the structure the Indian govt has for engineering colleges to be specific.&lt;/p&gt;
+&lt;p&gt;I thought of starting to build a team for managing and organizing regular monthly meetups in my city as a continuation of SolapurFOSS. We wanted new volunteers because I and a couple of my classmates (4 of us) organized and tried running SolapurFOSS smoothly but now we&amp;rsquo;re on the verge of exiting the college as it&amp;rsquo;s our 3 year and the last semester. I started taking sessions in my college about Linux etc. That day I felt we needed to start again so we thought of getting some volunteers and teaching them what &amp;ldquo;volunteering&amp;rdquo; is.&lt;/p&gt;
+&lt;p&gt;We got a young fresh out of school (10th std) girl who was willing to volunteer and learn. My biggest concern while taking someone as a volunteer is always about how they are at expressing themselves and their thoughts. I always wanted a team with whom I could discuss real-world problems and frustrations which we share in common. I honestly feel I don&amp;rsquo;t fail miserably but yes I do fail in doing that. But I don&amp;rsquo;t see a problem with that. This wasn&amp;rsquo;t naturally built inside me as well, slow and steady when I started observing what was going around me. It started building inside me, which I started sharing with others.&lt;/p&gt;
+&lt;p&gt;While getting someone as a volunteer I try seeing three things in them:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How are they in behavior (this has mattered to me a lot and to all of us at FOSS United)&lt;/li&gt;
+&lt;li&gt;How much they are interested in technology in general (not just FOSS).&lt;/li&gt;
+&lt;li&gt;Are they ambitious&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Recently, I asked the new volunteer about what they do in their day-to-day life and asked if she is interested in reading books. She replied &amp;ldquo;Syllabus k alawa kabhi kuchh dusra nahi padha&amp;rdquo;. I felt triggered and my sudden reaction was &amp;ldquo;Yet another doomed human being&amp;rdquo;. I love this drama and having controversial debates with those who are more towards marks even when knowing that they don&amp;rsquo;t know how to solve or do real-world stuff. Many students in college these days, know that they are doomed but they just wear the mask that they don&amp;rsquo;t understand and continue to run behind marks to get into the top college with dumb teachers just for a fucking placement.&lt;/p&gt;
+&lt;p&gt;Later, I asked them what they studied so much for and what they gained so big by getting 90%+ in exams. I heard this reply from them &amp;ldquo;Because it makes parents happy&amp;rdquo;. And I was like, &amp;ldquo;Wow this girl is way too doomed and fooled&amp;rdquo;. This was the third time I heard a student saying &amp;ldquo;Marks make my parents happy&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Even about my parents, I don&amp;rsquo;t understand what&amp;rsquo;s so important to get the most marks and the best college. At the end of the day if the student has a higher percentage but still has to go through the training period to do real work how will that even make sense? It felt like that girl did not have taste in any other thing other than &amp;ldquo;satisfying her parents&amp;rdquo;. I know that as an heir we have to do good things which they are happy about but that certainly needs to be &amp;ldquo;marks and percentage&amp;rdquo; right?&lt;/p&gt;
+&lt;p&gt;The happiness gained by marks is way too temporary for every parent because of human nature. Assuming You get 92%, they&amp;rsquo;ll be happy with 92% for only a specific time after the results, but after 10 or 20 days, it&amp;rsquo;s reset. They&amp;rsquo;re more behind making you get 95%. This is what we call &amp;ldquo;improving and scaling with time&amp;rdquo; but there&amp;rsquo;s no state of &amp;ldquo;satisfaction&amp;rdquo; or &amp;ldquo;fun&amp;rdquo; here. It&amp;rsquo;s just like a reset button for them and then for you.&lt;/p&gt;
+&lt;p&gt;Recently, students have stopped seeing themselves in the long run. What I mean by longer run is nowhere related to programming for passing Aptitude tests, or getting the best college in your city and then the best placement on the Campus. I feel that one student who on the first day of college can visualize what&amp;rsquo;s going to happen in the next 4 years properly is going to make it successfully and way out in a decent way.&lt;/p&gt;
+&lt;p&gt;In the end, I only want to tell those kids who want to make &amp;ldquo;parents happy&amp;rdquo; by giving them marks that you are making them &amp;ldquo;happy&amp;rdquo; for only a &amp;ldquo;shorter period&amp;rdquo; of course there are some exceptional ones, but &amp;ldquo;majority&amp;rdquo; is an important word.&lt;/p&gt;
+</description>
     </item>
+    
+    
+    
     <item>
-      <title>green</title>
-      <link>https://mangesh.xyz/tags/green/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://mangesh.xyz/tags/green/</guid>
-      <description></description>
+      <title>Trying to Fix Without Even Breaking</title>
+      <link>https://mangesh.xyz/posts/trying-to-fix-without-even-breaking/</link>
+      <pubDate>Sun, 18 Feb 2024 15:07:26 +0530</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/trying-to-fix-without-even-breaking/</guid>
+      <description>&lt;p&gt;So, a few days ago (2 weeks probably) I noticed a lot of heat on the bottom side of my laptop only when I was plugged in. So, I started looking up solutions on the internet and installed auto-cpufreq and also started using thermald which I knew before too but had not installed on my Thinkpad t490. So, I did and casually I thought that I would also additionally install and configure thermald. I set the start threshold and stop threshold to 20% and 80%.&lt;/p&gt;
+&lt;p&gt;For those of you who don&amp;rsquo;t know TLP - it is a tool that is used to optimize battery health and keep it healthy.&lt;/p&gt;
+&lt;h5 id=&#34;the-so-called-problem-starts&#34;&gt;The so-called &amp;ldquo;problem&amp;rdquo; starts&lt;/h5&gt;
+&lt;p&gt;After some time, I was driven into the work I was doing before configuring all these tools. The battery came to 36% and I plugged it in, after like 15-20 minutes I noticed that it wasn&amp;rsquo;t charging (P.S.: this was my TLP). And this was when the drama started, I was scared thinking that my battery was dead, but one of my friend suggested checking it with &lt;code&gt;upower&lt;/code&gt; and I did, and that&amp;rsquo;s when I found out that the charge-cycles on this battery had already been crossed over to 1220. Which no doubt was more than what a battery should have. The battery capacity went down to 79.8% which was also pretty much bad, but the laptop used to give me a good 5-6 hours of use cycle. So, I was kind of scared and the thought which struck my mind the whole time was that &amp;ldquo;Thinkpad accessories are damn costly, this battery replacement would cost me over 6-7k on minimum&amp;rdquo;. And because of all this overthinking and stressed environment, I forgot that I had the damn tlp service running with the start threshold voltage set to 20%. I ran quickly to the Lenovo service center thinking the battery went dead as it was obvious looking at those more charge cycles I had.&lt;/p&gt;
+&lt;p&gt;I applied for the replacement procedure and paid an advance money of 2k. In total, I had to pay 6.5k INR (500rs was a student discount). Hence after 2 days, I got the so-called &amp;ldquo;new&amp;rdquo; battery from the store and after coming home I noticed that the service center kind of some scam with me because the replacement battery wasn&amp;rsquo;t able to last longer than 3 hours, and it had also crossed charge cycles over 400 and in addition to this the model number of the battery was different than my original battery, but the person was not ready to listen to me at all. So, it was obvious that they thought of me as someone who won&amp;rsquo;t pay much attention and won&amp;rsquo;t care much. But, I am someone who thinks so much so I made a complaint and we got another replacement battery after 4-5 days. The day before yesterday, I went over and installed that new battery. It was the perfect battery with N/A charge cycles and a capacity of 100% which could easily run for over 7 hours.&lt;/p&gt;
+&lt;p&gt;I went home, and again installed TLP and configured it with the start threshold and stop threshold to 40-80. started working on it.&lt;/p&gt;
+&lt;p&gt;Note: TLP starts applying the threshold voltage configuration after a reboot.&lt;/p&gt;
+&lt;p&gt;And I was working and making a presentation for a Linux session where I was going to teach my juniors a bit about Linux and FOSS. I woke up early that day after sleeping at 3:30 (1-3:30 was working on the presentation) and started planning out the structure of my talk. The battery at this moment was 50%, so I thought I&amp;rsquo;d charge it as the session was going to be almost 2 hours. I plugged in and noticed that it wasn&amp;rsquo;t charging (P.S.: even this time it was TLP). I had forgotten that TLP was the one who was preventing the battery from charging.&lt;/p&gt;
+&lt;p&gt;I called the service center again, and told them about the person. That person being from a Tier-II city had no idea what TLP was and did not even think of inquiring about anything like this. Me being in all this drama forgot about TLP. So, we applied for another battery replacement (3rd time), I came back home and was working on power plugged in (at 43%), so there was no chance I would notice after the battery got below 40% and started charging.&lt;/p&gt;
+&lt;p&gt;Today (18th Feb 2024), while I was watching &lt;a href=&#34;https://www.youtube.com/watch?v=KyYsVeYzbik&#34;&gt;The Hacktivist&lt;/a&gt; which is kind of based on reverse engineering. All of a sudden, I remembered the word TLP. I quickly stopped the service, unplugged, and was waiting till the battery dropped to below 40%. And boom, it was charging!!&lt;/p&gt;
+&lt;p&gt;The very moment, I felt that all of these 2 weeks of unnecessary stress, and overthinking was uncalled for. I had to just think of TLP and god damn turn the service off and all of this wouldn&amp;rsquo;t have happened 😂.&lt;/p&gt;
+&lt;p&gt;Now, I have two working batteries xD.
+&lt;img src=&#34;https://mangesh.xyz/batteries.jpg&#34; alt=&#34;working batteries&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;the-good&#34;&gt;The Good&lt;/h4&gt;
+&lt;p&gt;Regardless of all these bad experiences, I did a lot of research on reading on the r/thinkpad subreddit and collected good info about Lithium Ion batteries and many tools to diagnose issues around it. All of this also taught me that thinking a lot over something does nothing good to either you or the situation. So, it&amp;rsquo;s better to be calm and not care much about what&amp;rsquo;s going on. Gotta say I learned a lot from the last 2 weeks.&lt;/p&gt;
+&lt;p&gt;Maybe, I will also post about the whole replacement and battery-choosing process for a Thinkpad, trying to explain stuff.&lt;/p&gt;
+</description>
     </item>
+    
+    
+    
+    
+    
     <item>
-      <title>red</title>
-      <link>https://mangesh.xyz/tags/red/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://mangesh.xyz/tags/red/</guid>
-      <description></description>
+      <title>Why Own a Website</title>
+      <link>https://mangesh.xyz/posts/why-own-a-website/</link>
+      <pubDate>Thu, 25 Jan 2024 02:51:03 +0530</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/why-own-a-website/</guid>
+      <description>&lt;p&gt;Note: This post is subject to errors (grammatical or more) as i&amp;rsquo;m writing this to give a try at writing something in one go and at 3:00 AM. Pardon any errors!&lt;/p&gt;
+&lt;p&gt;Back in 2020, when I had got started living more on the internet and with virtual friends. I always had a weird attraction towards cool, minimal and very worn out websites which were very old (I still like finding such websites). I always wanted to make my own website too.&lt;/p&gt;
+&lt;p&gt;It was all my curiosity and attraction towards building and having my own website. I tried learning a bit of HTML, and CSS hand in hand with a bit of javascript (which I never implemented in Web Development), I built my first website by copying and modifying the code from the first version of bugswriter.com which was a very nerdy and geeky implementation of Neofetch but with my photograph and my details instead of system details. Ngl, it was very fun doing all this back then. After that I slowly started learning more and more, there was almost no one to tell but only the internet to look upon for inspiration.&lt;/p&gt;
+&lt;p&gt;One thing at that time being a kid of 15s did not know was how to do the right search query. A couple of my friends on telegram had been redirecting me to google.com every time I tried to ask them something. And that&amp;rsquo;s how I slowly started moving to google.com until it was a huge fuck up I created.&lt;/p&gt;
+&lt;p&gt;I almost switched between 10-15 different styles of web pages I build over the course of the last 3 years of my existence as a internet boy. Sometimes, I look up to geeky folks websites, I used to make mine like that getting inspired and sometimes I used to see these cool creative UX developers websites and I used to try building a beautiful, elegant and creative (not so creative in my case) websites. &lt;a href=&#34;https://mangeshre.github.io&#34;&gt;https://mangeshre.github.io&lt;/a&gt; turned out to be one of them. (please do not open, its fucked up)&lt;/p&gt;
+&lt;h4 id=&#34;why-should-you-have-your-own-website-&#34;&gt;Why should you have your own website ?&lt;/h4&gt;
+&lt;p&gt;Over the time of these 3 years, one thing I have noticed is that this land of Internet is open for most people to criticize, share their opinions in whatever way they want (until its legal according to the govt and digital laws).&lt;/p&gt;
+&lt;p&gt;You learn a lot around tech and generally get the idea of how these HTTP, HTTPS, DNS protocols work in general without going very deep into their fundamentals (if you wish not to) which is very good if you&amp;rsquo;re already willing to become a developer. Overtime you stumble upon a lot of different things, like how I stumbled upon. HTML, CSS, a bit of JS, then to CSS Frameworks, and after that Javascript Front End Frameworks like React, SolidJS etc, and now I prefer being happy with a simple and nice static site generator.&lt;/p&gt;
+&lt;p&gt;Majorly because I just want to learn sharing my honest opinions and POV&amp;rsquo;s on the internet in the form of blogs. Which is also helping me learn how to write and actually make sense.&lt;/p&gt;
+&lt;p&gt;Isn&amp;rsquo;t it cool to have your own website hosted on some nice and cheap domain with some hosting service like GIthub Pages, Vercel or even maybe try self hosting it ? Back then I did not know what self hosting meant. But again over time, I came to know about it and now the next thing I want to do is self host my website on a dedicated $5 droplet or something. I actually have more interest in self hosting my website on a physical hardware instead of these cloud services which are kind of charging more because I can save money by hosting it on my old crappy craptop.&lt;/p&gt;
+&lt;p&gt;Developing common sense:
+Keeping yourself up to date about what goes on the internet, I feel is very important as we&amp;rsquo;re bound by Internet at every moment of our life in this era. Thankfully, because of people and geeks like Aaron Swartz there&amp;rsquo;s a lot / enough amount of Freely accessible information is available on the internet. If you&amp;rsquo;re someone who want to read old things from the old times then OpenLibrary.org or even internetarchive.org / archive.org are the best places.&lt;/p&gt;
+&lt;p&gt;I see myself transitioning from surfing youtube to surfing Wayback machine sometimes (sometimes is good).&lt;/p&gt;
+</description>
     </item>
+    
+    
+    
+    <item>
+      <title>Christmas Night With Tmp Files</title>
+      <link>https://mangesh.xyz/posts/christmas-night-with-tmp-files/</link>
+      <pubDate>Tue, 26 Dec 2023 01:36:25 +0530</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/christmas-night-with-tmp-files/</guid>
+      <description>&lt;p&gt;This is a blog that will help me always remember that checking the command twice before running is the best way to not lead towards any fuck ups on a Linux machine. and also to give me trauma even ahead in the future.&lt;/p&gt;
+&lt;h3 id=&#34;i-noticed-tmp-files&#34;&gt;I noticed tmp files&lt;/h3&gt;
+&lt;p&gt;I was working on some things inside the terminal and I noticed that there are a lot of temporary files with names ~/.bash_history-some id.tmp. I thought that these files must&amp;rsquo;ve got created when I left my laptop idle today yesterday (24 December 2023) from 2:00 to 4:36 PM because that was the time when I slept out of the blue on my chair. After I woke up I found that the laptop battery was dead to 4% and it was on suspend mode. So, I did a force reboot as pressing the power button wasn&amp;rsquo;t turning it on because of less battery.&lt;/p&gt;
+&lt;p&gt;After that, I found these files in my home directory. I tried deleting them but they weren&amp;rsquo;t getting deleted. Why? because I was no more the user of those files.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mangesh.xyz/tmpfiles.png&#34; alt=&#34;temp files&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It was very ironic looking at this output, it basically said that someone called &lt;code&gt;users&lt;/code&gt;. And continuing ahead I noticed that I was no longer the owner of my whole home directory itself. At this moment, I was thinking that today is going to be fun and hectic because I would be able to learn a lot while fixing this issue. (And indeed i learned a very big lesson)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mangesh.xyz/perms.png&#34; alt=&#34;user was the owner&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I was talking with some of telegram friends at the same time discussing this with them. And one of my friend after asking told me the reason why these temporary files were getting created. And, according to him it was&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;bash wasn&amp;rsquo;t able to append command history to ~/.bash_history due to messed-up permissions&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;which I was pretty much not expecting because there was nothing inside these directories and I had no clue of this until he told me this because my ~/.bash_history was still getting rewritten with a newer set of commands which I was running.&lt;/p&gt;
+&lt;p&gt;I wanted to know exactly when all of these files were getting created. I quickly did an &lt;code&gt;ls -lrtha ~/.*tmp*&lt;/code&gt; and I saw that these files were getting created from November 5, 2023, If this was a hack then there would&amp;rsquo;ve been a specific time or event listener when these files were getting created but it was nothing like that. And common no hacker would make a plan to make empty tmp files in the home directory of a user. (I forgot to take a screenshot of the output of -lrtha).&lt;/p&gt;
+&lt;p&gt;All of us were expecting that I had downloaded some wrong scripts and ran them in my home directory, but god damn I do not remember downloading anything other than CSV files, a couple of mp3/mp4&amp;rsquo;s, some flac, and images (could&amp;rsquo;ve been a source tho). But it was nothing like that&lt;/p&gt;
+&lt;p&gt;The suspicious actor in the whole drama was the user group &lt;code&gt;users&lt;/code&gt;. To everyone, I said that I did not run that command, because when I had done &lt;code&gt;cat ~/.bash_history | grep -i &amp;quot;users&amp;quot;&lt;/code&gt; and I found nothing relevant.&lt;/p&gt;
+&lt;h3 id=&#34;users&#34;&gt;Users&lt;/h3&gt;
+&lt;p&gt;I ran &lt;code&gt; ls -lrtha /home&lt;/code&gt; and there as well the owner of this home partition of my home directory was users. All of friends showed me the output with their home directories owned by &lt;code&gt; user:group&lt;/code&gt;. But it was me who had it as &lt;code&gt;users:users&lt;/code&gt; and I was like &amp;ldquo;god damn tf is happening&amp;rdquo;. After checking out with &lt;code&gt;groups&lt;/code&gt; command the output was in the following way&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;input users wheel&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Of course, it wasn&amp;rsquo;t like I wanted it to be. I with the help of my friends tried investigating everything we could and that was the moment when &lt;a href=&#34;https://cyberknight777.dev&#34;&gt;cyberknight&lt;/a&gt; popped up asking me to check if there was something relevant to &lt;code&gt;users&lt;/code&gt; in the ~/.bash_history of my root user.&lt;/p&gt;
+&lt;p&gt;And Yes, I eventually ran this command back in the past:
+&lt;img src=&#34;https://mangesh.xyz/image_000.png&#34; alt=&#34;my bad&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It was the moment, when I was feeling very dumb and they were apparently laughing. I was finally fed up of myself now (P.S: I was already a lot stressed from 1-2 days before that) and this turned out to be the moment that was like a cherry on top of it.&lt;/p&gt;
+&lt;h3 id=&#34;the-fix&#34;&gt;The Fix&lt;/h3&gt;
+&lt;p&gt;As of now, I came up with the idea that all I have to do is to create a new usergroup with the name mangesh and add my user mangesh to it. And again take back the ownership of my /home/mangesh directory. I did that, after doing this I took ownership of all the tmp files in my home directory and removed them and this time it worked. This might be the temporary fix, but I want to temporarily fix this on purpose because, this way I can check for more issues that can come ahead because of users and permissions.&lt;/p&gt;
+&lt;p&gt;Apparently, according to me I was supposed to run the users command with some different parameters and for different user or in a chroot environment. But, I ran it in my local system itself. That&amp;rsquo;s why I thought could&amp;rsquo;ve gone wrong. I don&amp;rsquo;t remember exactly why I ran that command.&lt;/p&gt;
+&lt;h3 id=&#34;realization&#34;&gt;Realization&lt;/h3&gt;
+&lt;p&gt;Down the lane, this issue was a great help to me from a positive perspective. I learned a lot of new commands and flags and did a lot of searching on the internet.&lt;/p&gt;
+&lt;p&gt;And, every moment I had the realization that Linux is so great that it gives me the freedom to peek and capture every moment of myself. Windows would&amp;rsquo;ve never given me the freedom to see when temporary files were getting created into my system or when I ran the command. I learned a lot of lessons (which I don&amp;rsquo;t want to reveal), and I will fix all my mistakes from now on.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://mangesh.xyz/posts/my-first-post/</link>
+      <pubDate>Sat, 02 Dec 2023 01:40:19 +0530</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Mangesh. I am a student, tinkerer and a geek pursuing a Diploma curse. I am a person of diverse interests and opinions. I am a Free Software enthusiast and one of the first Free Software I used in my initial days was Linux and have been using it since then as a daily driver.&lt;/p&gt;
+&lt;p&gt;This is my personal blog page, where I want to rant, present my opinions and write notes of whatever I want to.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Confused as a Student</title>
+      <link>https://mangesh.xyz/posts/confusion/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/confusion/</guid>
+      <description>&lt;p&gt;This blog is me ranting about why I am way too confused as a student.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-the-confusion-about-&#34;&gt;What is the confusion about ?&lt;/h3&gt;
+&lt;p&gt;I am a Computer Engineering student pursuing my diploma in a private college in my city. Unlike the others, I am someone who questions every small thing a lot and at times I’m very rude to people of my age group near or around my college circle. I am barely accessible to everyone and do not have a big circle. My margin is limited only to 3 other students.&lt;/p&gt;
+&lt;p&gt;I feel like getting an education from an engineering college that has no good staff or culture sucks so much that you might want to quit. I am going through that similar situation. I often get confused about whether should I study pass exams, get good marks or I should learn what is more important and something that adds data into my cloud called my brain. I believe more on the practical side of things so I of course chose the second option of trying to learn what is more important to me. And, yes there are disadvantages to it but tbh I feel very happy looking at a couple of classmates of mine who are confused on the same yet chose to walk on the first path of studying to pass the exam and gain good marks. Why? because they want to study in a good college. No matter how they fall behind in gaining real knowledge, they still want to cope with the curriculum.&lt;/p&gt;
+&lt;p&gt;I honestly do not want to blame the students for choosing that path because it&amp;rsquo;s what they are asked to walk on. Getting good marks, and getting into a good college that has nice corporate candies with packages of 8-10 or even 15-20 LPA is easier for them. I feel that is legit but what about all the things you are missing out on now? What about all the things you can learn. Perhaps, a student who chooses the path of studying, marks, and good college won’t ever be able to learn things that the commons do not. Even if they get a good job and want to continue learning different things ahead in life, only 2% out of 100% would be able to do just because coping with a Full Time Job is harder than learning things when you’re a student and have ample amount of time to learn and explore around whatever you like.&lt;/p&gt;
+&lt;p&gt;I always had this question in my mind, “Am I a dumbass retard who is just not studying and will end up in a shit college paying double money ?”, or “Am I someone who on purpose does different things just to flex?”. Honestly, yes I might end up in a bad college, but I will always know something different from the majority. I believe in investing 90% of my time working on different things and learning newer tech every day. Just because that satisfies me and I love doing that.&lt;/p&gt;
+&lt;p&gt;One of my friends is going through the same. He seemed confused between academics, self-learning, and helping his parents at home? I never know what he must be facing, maybe even that easy for me to say that focus on what’s important.&lt;/p&gt;
+&lt;p&gt;IMHO, I will never be able to manage academics and self-learning at the same time. I would love to make the sacrifice of academics &amp;lt;3 and yes I’m still very dumb at basic things and haven’t mastered anything special.&lt;/p&gt;
+&lt;p&gt;Not sure if I have solved my confusion or not, but questions are important.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Living Alone</title>
+      <link>https://mangesh.xyz/posts/livingalone/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/livingalone/</guid>
+      <description>&lt;h2 id=&#34;a-random-blog-where-im-blabbering&#34;&gt;A random blog where I&amp;rsquo;m blabbering&lt;/h2&gt;
+&lt;p&gt;I recently moved to Bangalore, it&amp;rsquo;s called the IT/Technical Hub of India. Well, I moved here for my Internship at FOSS United. Thanks a lot to my managers they invited me to come and work from office. And for me this is kind of a very difference.&lt;/p&gt;
+&lt;p&gt;Before this I have never lived alone for more than 7 days, this is the first ever time when I&amp;rsquo;ll be leaving alone, 650 km away from my parents in a very new and busy city. I haven&amp;rsquo;t actually fell in love with this city, well that&amp;rsquo;s obvious because I haven&amp;rsquo;t I haven&amp;rsquo;t explored it much, I have only seen the negatives till now. I hope someone helps me explore Bengaluru.&lt;/p&gt;
+&lt;p&gt;There have been moments, when I totally feel hatred and wanted to go back, but on the contrary there are moments when I&amp;rsquo;m enjoying with my colleagues, having fun learning different things. Whenever I take a moment away from the computer, I am blank and I have very weird questions in my mind.&lt;/p&gt;
+&lt;p&gt;But nvm Everything happens for good!&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Conquering Maharashtras Highest Peak</title>
+      <link>https://mangesh.xyz/posts/kalsubai/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/kalsubai/</guid>
+      <description>&lt;p&gt;This is a blog which will let y&amp;rsquo;all readers know how I am feeling after climbing Maharashtra&amp;rsquo;s highest peak. Words probably won&amp;rsquo;t be of much help but let&amp;rsquo;s give it a try.&lt;/p&gt;
+&lt;h2 id=&#34;it-all-starts-with-a-post&#34;&gt;It all starts with a post&lt;/h2&gt;
+&lt;p&gt;So, there&amp;rsquo;s a local community of trekkers in my city called EcoFriendlyClub. They&amp;rsquo;ve been organizing treks to various places in the Sahyadri Mountain Ranges from the last 7-8 years. I&amp;rsquo;ve been them many times to various places. So, I saw the announcement of Kalsubai Trek in a whatsapp group. In the past I missed the opportunity for Kalsubai Trek for 3 times consecutively. But everything happens for good right ?&lt;/p&gt;
+&lt;h2 id=&#34;prep&#34;&gt;Prep&lt;/h2&gt;
+&lt;p&gt;kalsubai is 1646m (5400 ft) in height with total 15-16 km of walking distance. So, for sure it needs pre-trek walking habbit. I love walking hence, I just increased my walking time and distance. I started walking 10-15k steps everyday. Walking is the best thing to do after you do a lot of sitting in frnot of computer.&lt;/p&gt;
+&lt;p&gt;The trek was for 2 days. The first day we explored worlds second largest valley, &lt;strong&gt;Sandhan Valley&lt;/strong&gt;. It&amp;rsquo;s has huge and tons of stones inside. I felt like Bear Grylls when running and trekking between them 😂. Need to give him the credits for showing how to climb between two stones in his episodes.&lt;/p&gt;
+&lt;h2 id=&#34;packing&#34;&gt;Packing&lt;/h2&gt;
+&lt;p&gt;Talking of packing, I have done nothing, 2 hour before leaving I was still sitting in front of the computer. I actually had to deploy my internship project. So, I was totally messed up. But, my sister already got all the things packed. So, it was just eating, changing and leaving for the bus stop.&lt;/p&gt;
+&lt;h2 id=&#34;sandhan-valley---the-2nd-largest-valley-in-asia&#34;&gt;Sandhan Valley - The 2nd Largest Valley in Asia&lt;/h2&gt;
+&lt;p&gt;As planned the first day of the trek is always a bonus for everyone. The first day is full of enjoyment at various spots having good food, and it&amp;rsquo;s like a chill moment for everyone stressed out. So, they had planned Sandhan Valley for us first. We started the trek for Sandhan Valley at something 1:45 something after having a traditional rural village meal which is always tastier in its own and &lt;strong&gt;made with utmost love&lt;/strong&gt;. It was the first time in my life when I saw stones big as thrice of my height. Chuckled up for sure. I was always conscious of me not stepping up at the wrong place. I got stucked at a point where it was too much clumsyness of people getting into the valley and others getting out of the valley. So, after an hour of waiting I finally passed that entry point. All of my mates already set ahead. I ran off all the stones (P.S: I felt like bear grylls).&lt;/p&gt;
+&lt;p&gt;There are two spots in the valley where it is full of water. Very soon, the first one showed up. I removed my shows and threw it to the other side so that they don&amp;rsquo;t get wet. But Duhh! it didn&amp;rsquo;t happen as expected. One of my bounced of by hittinga  stone and felt into water. I crossed it slowly and when I was going to pick it up, the most mandatory things happened - I fell into water 😂 (P.S: But that was refreshing, water was cold). At the second patch we weren&amp;rsquo;t allowed to go ahead as I was too late. So, I thought why not just sit and get a nice and natural pedicure from small fishes.&lt;/p&gt;
+&lt;p&gt;Soon after that we returned out of the valley. We had yet another good dinner. And set of to watch fireflies. Ngl, they were very beautiful and made me feel sleepy. It&amp;rsquo;s a way too different mechanism of insects. They literally have inbuilt Light Emitting Diodes inside them 😂 /jk.&lt;/p&gt;
+&lt;p&gt;The night went well inside tent with just 2 of us in the whole tent.&lt;/p&gt;
+&lt;h2 id=&#34;the-final-moment&#34;&gt;The Final Moment!!&lt;/h2&gt;
+&lt;p&gt;Morning and everyone ready to set off for the trek. I had a nice power nap until we reached the base of the peak. Moreover because I felt like vomitting ;-;. Soon as we reached, There was this huge as hell mountain in front of us. I wasn&amp;rsquo;t much tensed because I had done 4 treks before which were like tough enough. So, wasn&amp;rsquo;t a big issue for me.&lt;/p&gt;
+&lt;p&gt;The initial hour involved some difficult climbs, but the cool breeze provided a sense of relief amid the pounding heartbeat. Moving at a good pace, we enjoyed the trek, even discovering a small waterfall of water droplets between the stones. I couldn&amp;rsquo;t resist the temptation and positioned myself beneath it, experiencing a tremendous sense of relief.&lt;/p&gt;
+&lt;p&gt;Found some black plum treks in the forest after sometime, So it was mandatory to break and taste those sweet plums.&lt;/p&gt;
+&lt;p&gt;After an hour of trekking, the peak finally came into view. Its sheer size ignited a strong desire to reach the top. Following the markings on the stones, we made our way towards the peak, moving swiftly through the last stretch.&lt;/p&gt;
+&lt;p&gt;And finally we reached the top. The moment everyone had a nice smile on their faces. Removed my shoes, went to the temple. Prayed to the goddess there saying &amp;ldquo;Thank you for letting us reach the top!&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;p&gt;I would like to extend my sincere thanks to EcoFriendly for organizing this awe-inspiring trek and for making my dream come true.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Surely you&#39;re Joking Mr.Feynman</title>
+      <link>https://mangesh.xyz/posts/sujmf/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/sujmf/</guid>
+      <description>&lt;h2 id=&#34;book-review---surely-youre-joking-mr-feynman&#34;&gt;Book Review - Surely You&amp;rsquo;re Joking Mr. Feynman&lt;/h2&gt;
+&lt;p&gt;So, those of you who like reading, physics and crazy brains. You might have come across a famous, physicist and he is called ~Dick Feynman~ Richard Feynman. He was a physicist, a curious, a natural problem solver. This blog is all about one of his biographical books named &amp;ldquo;Surely You&amp;rsquo;re Joking Mr. Richard&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;how-i-came-across-the-book&#34;&gt;How I came across the book?&lt;/h2&gt;
+&lt;p&gt;I am a curious guy and I came across Richard Feynman through one of my friends &lt;a href=&#34;https://github.com/uditkarode/.github/Readme.md&#34;&gt;Github Readme&lt;/a&gt;. And then I googled up stuff for him and felt pretty interesting about him. After a while, I came across this book. The book cover covered pulled me like a magnet. So on, I started saving money to get that book. And, then there came an opportunity walking towards me and that opportunity was &amp;ldquo;Writing my Sister assignments &amp;ldquo;. I signed a deal with her for 400rs (the book costed 350rs). And yeah, the deal was signed and both the businessman returned back to offices with their secretaries. It was no time to wait, I completed the assignments and ordered the book.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-the-book-all-about-&#34;&gt;What is the book all about ?&lt;/h2&gt;
+&lt;p&gt;The book is all about Richard Feynman&amp;rsquo;s adventures in his life. It starts from his first experiement of tinkering with Radio they had in their house and announcing his friends Birthday on the radio. And, continuing it all till the end. Ngl, due to college I took a lot of time to complete this book, with a lot of inconsistencies. But it was surely very fun.
+So, as said Richard Feynman was a very curious guy, he was very active guy. He performed various science experiements in his basement (like all cool kids do). Reading this book, gave me a discrete sense of curiosity to me. Like feeling curious about very weird stuff and also thinking constantly on a single topic. The book is full of crazy stuff he did like playing safe&amp;rsquo;s, getting his one dollar back from officers, Playing with Biological stuff, joining a music band in Brazil, Staying in Japan, Getting into art, Portraying Nude womens, Trying to trick people with speaking various languages, and teaching students ofc.&lt;/p&gt;
+&lt;h2 id=&#34;favourite-chapters&#34;&gt;Favourite Chapters&lt;/h2&gt;
+&lt;p&gt;Speaking of some of my Favourite Chapters&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Part 2: &amp;lsquo;Surely You&amp;rsquo;re Joking Mr.Feynman&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;A Map of the Cat&lt;/li&gt;
+&lt;li&gt;Monster Minds&lt;/li&gt;
+&lt;li&gt;Part 3: &amp;lsquo;Fizzled Fuses&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;Safecracker meets Safecracker - recommended&lt;/li&gt;
+&lt;li&gt;I want My One Dollar - funniest&lt;/li&gt;
+&lt;li&gt;Lucky Numbers&lt;/li&gt;
+&lt;li&gt;Thirteen Times&lt;/li&gt;
+&lt;li&gt;But is it Art&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;thoughts&#34;&gt;Thoughts&lt;/h2&gt;
+&lt;p&gt;The book is for curious folks, who have a certain hunger for curiosity. It&amp;rsquo;s like &amp;ldquo;By the Curios, For the Curious, From the Curious&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;One thing, I learn&amp;rsquo;t from the book is &amp;ldquo;not beign Narrow Minded&amp;rdquo;. From the 2nd paragraph in this blog you might have had an idea, that Feynman wasn&amp;rsquo;t only a physicists. He tinkered a lot with Math, Biology, Music, Art and so on. He used to earn very well, it wasn&amp;rsquo;t like he was less on money so he did all these things. But, it was all his curiosity and the happiness he got from trying out various things. This is what I refer to as not beign Narrow Minded.&lt;/p&gt;
+&lt;p&gt;Folks might brag about they being perfect in one single field, and call someone with various hobbies as &amp;ldquo;Jack of all, Master of none&amp;rdquo;. But, &amp;ldquo;You cannot Master anything to the fullest&amp;rdquo; is the contradictory quote for them. Humans are one of the complex creatures, and should try getting into different things. I&amp;rsquo;d say being Narrow Mindedness is the worst mistake on would ever do. The world is full of mysteries, and fun stuff. Which will arouse your curiosity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Hey you Hooman, try removing your Horse Eye Blinders someday!&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Resources I use</title>
+      <link>https://mangesh.xyz/posts/resources/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/resources/</guid>
+      <description>&lt;p&gt;These are some of the blogs/articles and links to important resources which I refer to or love reading. This list will keep on updating in the future too!&lt;/p&gt;
+&lt;h1 id=&#34;articlesblogs&#34;&gt;Articles/Blogs&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.catb.org/~esr/faqs/hacker-howto.html&#34;&gt;How to Become a Hacker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lkrjangid1.github.io/Awesome-Warez/&#34;&gt;The Scene&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linuxjournal.com/content/linux-users-vs-linux-culture&#34;&gt;Linux users vs Linux Culture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://theevilskeleton.gitlab.io/2022/10/10/how-I-started-programming-and-how-you-can-too.html#bottles&#34;&gt;A start to programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://atulchitnis.net/biography/personal/&#34;&gt;About Atul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.phrack.org/&#34;&gt;Phrack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;some-good-blogs-from-people&#34;&gt;Some good blogs from people&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rgz.ee/&#34;&gt;rgz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wother.dev/static/avatar.html&#34;&gt;wother&amp;rsquo;s avatar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cyberknight777.dev/posts/2021/09/git-tips-and-tricks-part-1/&#34;&gt;git ti and tri&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tldp.org&#34;&gt;tldp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kernelnewbies.org/&#34;&gt;Kernel Newbies&lt;/a&gt;: Soon when I get a long hooooliday will study this!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxjourney.com&#34;&gt;LinuxJourney&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gnupg.org/&#34;&gt;GnuPG&lt;/a&gt; : cuz everyone needs to know pgp&amp;rsquo;s.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.shellscript.sh/&#34;&gt;shellscript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnvimscriptthehardway.stevelosh.com/&#34;&gt;learnvimthehardway&lt;/a&gt;: learn getting out of vim easily.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://javascript.info&#34;&gt;javascript.info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Experience at PuneFOSS&#39;23</title>
+      <link>https://mangesh.xyz/posts/punefoss/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/punefoss/</guid>
+      <description>&lt;h1 id=&#34;how-it-started-&#34;&gt;How it started ?&lt;/h1&gt;
+&lt;p&gt;A few days ago, as you may know, I attended MumbaiFOSS. I actually booked tickets for both Mumbai and Pune FOSS events because the reason behind booking both was that whatever I learned from MumbaiFOSS, I could apply in PuneFOSS. I didn&amp;rsquo;t want to just be an attendee at events. It felt weird to just go and listen, attend and get a couple of swags. I was already familiar with public speaking, as I had given introductory talks on Brain Chips in my class and in competitions. So, I had no reason to give a second thought to speaking at PuneFOSS. I asked some friends of mine and finalized my topic and wrote a CFP for PuneFOSS. I chose &amp;ldquo;Introduction to Minimalistic Distributions and Packaging with Arch Linux&amp;rdquo;. An advanced or super user might say they don&amp;rsquo;t relate much, but I wanted to speak about these topics for a very long time, and in my talk, I was going to try to create a connection.&lt;/p&gt;
+&lt;p&gt;So, finally the day came I got a call from &amp;ldquo;abcd efgh&amp;rdquo; on &lt;strong&gt;trucaller&lt;/strong&gt;, ofcourse, I ignored the call for a days thinking it of as a spammer or smth like that. But the next day my parents took up the call, And luckily it was &lt;strong&gt;&lt;a href=&#34;https://twitter.com/faizan8684&#34;&gt;faizan&lt;/a&gt;&lt;/strong&gt;, the organizer. He called me regarding the CFP. So, he asked me my journey and what i&amp;rsquo;m going to talk and how will I prepare for it. After having a nice long talk for half a hour. He said &amp;ldquo;Ok, we approve you as a speaker, just reply to the approval email in some time&amp;rdquo;. So, I followed it. I was totally fired up by the time. From that day, I started preparing my PPT and ofcourse started reading every possible page on the &lt;a href=&#34;https://wiki.archlinux.org&#34;&gt;archwiki&lt;/a&gt;. Soon, the days passed as flowing water of the river. My talk posts were released and the schedule too.&lt;/p&gt;
+&lt;p&gt;I had my friend &lt;strong&gt;Ash&lt;/strong&gt; who was experienced with giving talks from the age of 15. So, he has been of a great help to a dumb boi like me lmao. He spotted mistakes in ppt&amp;rsquo;s and made useful suggestions which I could&amp;rsquo;nt deny applying.&lt;/p&gt;
+&lt;h2 id=&#34;leaving-for-pune&#34;&gt;Leaving for Pune!!&lt;/h2&gt;
+&lt;p&gt;So, I&amp;rsquo;m from &lt;strong&gt;Solapur&lt;/strong&gt;, takes ssome 5-6 hours to reach pune. So, 2 days before the talk I was actually preparing too much I guess. I sat for some 5-6 hours continously on my chair and more before that. So, I felt like let&amp;rsquo;s get up and do some pushups. Ok, I did 10, then 15 and after that I got a **cramp in my back **😂😂.Not gonna lie, it was too painful to handle, but I wasn&amp;rsquo;t thinking much about it. So, the next day on Thursday, we 3 friends went to do some shopping (I was still feeling the pain).So, after coming home I did some checkin&amp;rsquo;s for FAQ&amp;rsquo;s and stuff like that. So, then my mother did some home remedies and for god sake my back was totally relieved. So, I packed my clothes, got my potato pc and all the other things in my bag packed. Me and my friends were to leave by 6:30 in the morning by train. So, we reached pune had some breakfast, and went into a room hunt. Unfortunately, we got none near the venue. So, we had to stay 6km away from the venue. That day we enjoyed as hell. We went to FC Road and Lakshmi Market, to just roam around on streets and have street foods. &lt;strong&gt;Coffee&amp;rsquo;s&lt;/strong&gt; were the best parts for me&lt;/p&gt;
+&lt;h1 id=&#34;dday-of-punefoss&#34;&gt;D&amp;rsquo;day of PuneFOSS.&lt;/h1&gt;
+&lt;p&gt;Slept at 3 am on Saturday. and woke up at 6:17 am. I got ready, packed my bag and we checked out of the hotel. Leaving for &lt;strong&gt;Cummins Engineering College&lt;/strong&gt;. The organizers were already there, and they allowed me to get in prior for setting up &lt;strong&gt;xrandr&lt;/strong&gt;, So it won&amp;rsquo;t cause any issues later (lol).&lt;/p&gt;
+&lt;p&gt;My Talk was supposed to be the 2nd one after &lt;strong&gt;Vishal Arya&lt;/strong&gt;. But, I guess he was late due to some circumstances. Hence, Faizan the organizer announced my talk. So, I got up took my potato pc in my hand, went on to the stage, opened the ppt and greeted everyone. I wasn&amp;rsquo;t scared so much I was in chill and I already decided, &amp;ldquo;What I&amp;rsquo;m gonna speak is what I&amp;rsquo;m going to enjoy&amp;rdquo;. So, I wasn&amp;rsquo;t tensed at all because, I was just going to have fun right? The real fun started when I was talking about contriibution guidelines and I suddenly saw &amp;ldquo;&lt;strong&gt;system going down&lt;/strong&gt;&amp;rdquo; due to low battery, because I forgot to plugin the charger, Gotta say mahn that was the real panic moment.  My talk started, and I had to hurry up a bit at the Packaging part. So, heartful apologies to all the listeners. As it was my first talk, &lt;strong&gt;25 minutes&lt;/strong&gt; flushed out like &lt;strong&gt;25 seconds&lt;/strong&gt;. I might have messed up at moments, but I tried my level best. And, I was done with the talk.&lt;/p&gt;
+&lt;p&gt;Later, in the QNA. I was very happy because &lt;a href=&#34;https://twitter.com/WishArya&#34;&gt;Vishal Arya&lt;/a&gt;, one of the guys whom I admired the most, wanted to ask a question. And I answered him. I was very glad that he appreciated my talk before he got started with his. it&amp;rsquo;s a very small thing, but yeah for me it all mattered. And then came top notch talks by my fellow speakers. The enterprenueral talk was just fabulous, fun, and totally perfect. Talks I enjoyed the most were by &lt;strong&gt;Leon Nunes&lt;/strong&gt;, &lt;strong&gt;Harsh Mishra&lt;/strong&gt;, &lt;strong&gt;Shloka Shah&lt;/strong&gt;, &lt;strong&gt;Sangeeta Gupta&lt;/strong&gt;, &lt;strong&gt;Khalid Khan&lt;/strong&gt; . And all the other talks were awesome too.&lt;/p&gt;
+&lt;h2 id=&#34;what-have-i-learnt-&#34;&gt;What Have I Learn&amp;rsquo;t ?&lt;/h2&gt;
+&lt;p&gt;I am not a professional or a good programmer at all. I am just an enthusiast, curious guy, or you can say &amp;ldquo;Jack of everything, Master of none&amp;rdquo;. One thing, I might specify is I learn&amp;rsquo;t how to learn. And never sitting quite or just waiting for the moment. I might say, I&amp;rsquo;ve met very fabulous people. And would never forget them and also never forget 1 April, 2023 ever in my life.&lt;/p&gt;
+&lt;h2 id=&#34;vof&#34;&gt;VOF&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve learn&amp;rsquo;t a lot from all those. Everyone was very polite and humble towards each other. I didn&amp;rsquo;t feel like they were considering with &lt;strong&gt;Kacha Nimbu&lt;/strong&gt; (LMFAO). I was getting &lt;strong&gt;equally&lt;/strong&gt; treated. Well, that&amp;rsquo;s what a FOSS event is. Everyone comes just to learn.&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;strong&gt;&lt;a href=&#34;https://twitter.com/faizan8684&#34;&gt;faizan&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;the volunteer team&lt;/strong&gt; for organizing &lt;strong&gt;PuneFOSS&lt;/strong&gt;. And making the day special for everyone at the Event.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>MumbaiFOSS 23</title>
+      <link>https://mangesh.xyz/posts/mumbaifoss/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/mumbaifoss/</guid>
+      <description>&lt;h2 id=&#34;my-journey-to-mumbaifoss-and-my-experience-there&#34;&gt;My journey to MumbaiFOSS and my experience there&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m doing my &lt;strong&gt;2nd-year diploma&lt;/strong&gt; in &lt;strong&gt;computer engineering&lt;/strong&gt;. I have always been a huge fan of &lt;strong&gt;FOSS&lt;/strong&gt; such as GNU/Linux, it was the reason I chose computer engineering but unfortunately, there was nothing in-depth on it in my course curriculum. I had seen people share posters of a FOSS event called IndiaFOSS on LinkedIn. I just looked up about it on the internet, it was conducted by FOSS United, a foundation that aims at promoting and strengthening the FOSS ecosystem in India. It was held in Bengaluru, far away from where I lived and my parents wouldn&amp;rsquo;t let me travel alone if I asked.&lt;/p&gt;
+&lt;p&gt;Despite the disheartening turn of events, I never gave up on my desire to attend a FOSS event. The next year, when a similar FOSS event called MumbaiFOSS was conducted by FOSS United in IIT Bombay. I decided that it was finally time for me to go. I asked my parents if they would allow me, and they agreed.&lt;/p&gt;
+&lt;p&gt;So, armed with some cash and fervor, I set off from Solapur to attend MumbaiFOSS on a local train for a journey of almost 500 km to reach the venue. I couldn&amp;rsquo;t sleep that night because of the excitement and the snoring of the sleeping passengers nearby. I reached Thane station in the early morning and got off the train. I took another local train from Thane to Kanjurmarg station. I reached Kanjurmarg station, I fell while getting off the train and I had a minor wound but I was more worried about whether my laptop was damaged. After checking laptop was safe, I took a rickshaw from there to Gate 2 of IIT Bombay. Being from a small city, I was excited to see an IIT campus for the first time, that too one of the best IITs in India. The campus was very beautiful, neat, and clean.&lt;/p&gt;
+&lt;p&gt;Once there, I ate a non-affordable breakfast outside the campus and then caught up with my telegram friend &lt;strong&gt;@MisanthropyDK&lt;/strong&gt; (we met for the first time), and saw many peeps in the tech industry. I had a conversation with a white-haired man who was a &lt;strong&gt;Fedora fanboi&lt;/strong&gt; and had years of experience in the FOSS industry, he was like an &lt;strong&gt;Indian version of Richard Stallman&lt;/strong&gt;. From that conversation, it felt like age did not matter nor did the skillset each one of us carried with us, everything felt equal when we interacted. One thing I remember he said was, &amp;ldquo;All technologies are inter-related, some people are narrow minded they study only one technology and try to master it, that&amp;rsquo;s the reason why they cannot inter-relate with other technologies.&amp;rdquo;. I felt very motivated to keep up my hunger for learning many and not ust one.&lt;/p&gt;
+&lt;p&gt;The first talk about the &lt;strong&gt;Prav app&lt;/strong&gt;. The speakers gave a fantastic explanation of why &lt;strong&gt;XMPP&lt;/strong&gt;, &lt;strong&gt;Matrix&lt;/strong&gt;, and other open-source chat platforms are better to use. And they were able to convince the sense of privacy and control of these platforms. I was convinced that I should switch to Matrix.&lt;/p&gt;
+&lt;p&gt;The electronic field-related project which included eSIM made by &lt;strong&gt;Mr. Sumanto Kar&lt;/strong&gt; and &lt;strong&gt;Mr. Nagesh Karmali&lt;/strong&gt; was very cool. After a tea break, it was the talk on WebRTC (Web Real-Time Communication). And this was the time when I came to know about servers like &lt;strong&gt;STUN&lt;/strong&gt; and &lt;strong&gt;TURN&lt;/strong&gt; that are used to create P2P connections when building a real-time application. And a lot more about the protocols used in WebRTC.&lt;/p&gt;
+&lt;p&gt;And then walks in &lt;strong&gt;Mr. Ashish Sahni&lt;/strong&gt; who blew my mind. His topic was one of the hardest ones for me to digest, I mean it was a way too advanced topic than others. It was all about the data architecture and how powerful data fabrication. Honestly speaking, I don&amp;rsquo;t have much to tell about this. So I&amp;rsquo;ll back off from this.&lt;/p&gt;
+&lt;p&gt;The next talk was by &lt;strong&gt;Mr. Poruri Sai Rahul&lt;/strong&gt;, an energetic and talented guy. His talk was about &lt;strong&gt;Digital Personal Data Protection Bills (DPDPB)&lt;/strong&gt;. This was again a new topic for me. And this talk was the one I enjoyed the most. In short, the bill was about the protection of your data collected from whatever online platform you use. It may be a search engine or any other app. He started with a game called &lt;strong&gt;&amp;ldquo;Cost and Benefits&amp;rdquo;&lt;/strong&gt;. What we had to do was just point out when the Cost and Benefits were high in a particular paragraph from the Data Bill. In my opinion, this was the only talk that was very interactive of all.&lt;/p&gt;
+&lt;p&gt;Then comes the fireside chat with Mr. Kailash Nadh. Those moments made me realize what life can be like beyond college lectures, it opened up a range of opportunities that didn’t seem possible before thanks to networking opportunities provided by events such as this one.&lt;/p&gt;
+&lt;h3 id=&#34;rant-alert&#34;&gt;Rant Alert&lt;/h3&gt;
+&lt;p&gt;The fireside chat with Kailash Nadh was an eye-opening experience that made me understand that we are just a bunch of scum in college who yet don&amp;rsquo;t know anything more advanced. It&amp;rsquo;s just 0.0000001℅ of the basics we engineering students know. We should be knowing and doing stuff that is far more advanced than the current scenario. I won&amp;rsquo;t blame anyone and I don&amp;rsquo;t even know whom should I blame. There are very less students in an engineering institute who care about tech and are fascinated by the processes. Everyone mostly runs behind being a topper, getting a good college ahead for being a grad. There are a lot of things that are unknown in this internet world that we yet need to explore and keep advancing with them.&lt;/p&gt;
+&lt;p&gt;This experience gave me a whole new perspective on life &amp;amp; technology. If anyone thinks attending such events is expensive, it was only INR 1600/- for train tickets, food, and registration.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>A Blog about BCI</title>
+      <link>https://mangesh.xyz/posts/bci/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mangesh.xyz/posts/bci/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;A brain chip is a very tiny computer chip that is similar to a size of a coin. Our brain pretty much works similarly to a computer i/o process. There are 86 Billion neurons in your brain.&lt;/p&gt;
+&lt;h2 id=&#34;bio-mehhhh&#34;&gt;Bio-MEHHHH&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Neurons&lt;/strong&gt; are responsible for sending or receiving information. A neuron is divided into three sub-parts: A dendrite responsible for receiving a signal, a cell body that processes the signal, and an axon that sends a signal out. You might feel that this is very relatable with a computer I/O process. This chip is implanted into the human skull using neural implants. This chip connects to thousands of neurons in the brain and stimulates them. These chips are capable of converting the natural axon single into ones readable by the chip. It also includes an external non-invasive technique such as EEG. EEG (electroencephalogram) is a test that measures electrical activity in the brain using small, metal discs (electrodes) that are attached to the scalp. brain chips work on the principle of BCI (Brain Computer Interfacing).&lt;/p&gt;
+&lt;h2 id=&#34;brain-computer-interfacing&#34;&gt;Brain Computer Interfacing&lt;/h2&gt;
+&lt;p&gt;Brain-computer interfacing is originating in work from the 1960s by Delgado and Fetz. Delgado developed an implantable chip (which he called a “stimoceiver”) that could be used to both stimulate the brain by radio and send electrical signals of brain activity by telemetry. The most significant feature of BCI are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Brain recording&lt;/strong&gt;: Signals from the brain are recorded using either invasive or non-invasive recording techniques.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Signal Processing&lt;/strong&gt;: Raw signals are pre-processed after acquisition and techniques for artifact reduction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Brain stimulation&lt;/strong&gt;: The stimulation pattern received from the signal processing component is used in conjunction with invasive or non-invasive stimulation techniques.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;types-of-bci&#34;&gt;Types of BCI&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Invasive BCIs&lt;/strong&gt;: These involve recording from or stimulating neurons inside the brain.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Non-Invasive BCIs&lt;/strong&gt;: These employ techniques for recording from or stimulating the brain without penetrating the skin or skull.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With both of these types, we can have BCIs which Only record from the brain (and translate neural data into control signals for output devices.) or Only stimulate the brain (and cause certain desired patterns for neural activity).&lt;/p&gt;
+&lt;h2 id=&#34;elaborating-bci&#34;&gt;Elaborating BCI&lt;/h2&gt;
+&lt;p&gt;The process of building a BCI is very complicated and needs a good knowledge of neuroscience, computer science, and machine learning. The one working on building a BCI should know as much as possible about working on a Neuron which is the most important part of the human brain which will make the Brain chip ready and help in the I/O process. Neuron is a tiny cell that is generally regarded as the basic computational unit of the nervous system. It is responsible for sending or receiving information.&lt;/p&gt;
+&lt;p&gt;There are a various types of brain responses one of which is Conditional response. Conditional responses are also seen in single neurons and networks. It requires some kind of condition for that operation to happen successfully. For example: Eberhard Fetz at the University of Washington utilized the idea of conditioning to demonstrate that the activity of a single neuron in a primate motor cortex can be conditioned to control the needle of an analog meter. The movement of the needle was directly coupled to the firing rate of the neurons, when the needle crossed a threshold, the monkey was rewarded. After several trials, the monkey learned to consistently move the needle past the threshold by increasing the firing rate of the recorded neuron. BCIs were able to read the electrical signals inside the neurons. EEG was widely used to measure electrical activity happening in the brain using small metal discs attached to the scalp.&lt;/p&gt;
+&lt;p&gt;There are n number of organisations working on BCI. Example’s are kernel.com, Elon Musks neuralink, sensorium and etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    
   </channel>
 </rss>
