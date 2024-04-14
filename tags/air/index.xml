@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Air on Words of a terrible kid</title>
+    <link>http://localhost:1313/tags/air/</link>
+    <description>Recent content in Air on Words of a terrible kid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Apr 2024 01:08:30 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/air/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Flight</title>
+      <link>http://localhost:1313/posts/my-first-flight/</link>
+      <pubDate>Mon, 08 Apr 2024 01:08:30 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-flight/</guid>
+      <description>As always, it all starts with adventures and problems, and in a way that I can later laugh at. This was a similar way.&#xA;IndiaFOSS 3.0 IndiaFOSS 3.0 was around the corner and we all were preparing for the conference working hard day and night without sleep. That day all of a sudden from nowhere my friends told me that my class test was announced for 26-27-28 October and IndiaFOSS 3.</description>
+    </item>
+  </channel>
+</rss>

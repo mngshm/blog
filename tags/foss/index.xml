@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FOSS on Bits and Bytes from random blocks</title>
+    <link>http://localhost:1313/tags/foss/</link>
+    <description>Recent content in FOSS on Bits and Bytes from random blocks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/foss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience at PuneFOSS&#39;23</title>
+      <link>http://localhost:1313/posts/punefoss/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/punefoss/</guid>
+      <description>How it started ? A few days ago, as you may know, I attended MumbaiFOSS. I actually booked tickets for both Mumbai and Pune FOSS events because the reason behind booking both was that whatever I learned from MumbaiFOSS, I could apply in PuneFOSS. I didn&amp;rsquo;t want to just be an attendee at events. It felt weird to just go and listen, attend and get a couple of swags. I was already familiar with public speaking, as I had given introductory talks on Brain Chips in my class and in competitions.</description>
+    </item>
+  </channel>
+</rss>

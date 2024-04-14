@@ -1,11 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Words of a terrible kid</title>
-    <link>https://mangesh.xyz/tags/</link>
-    <description>Recent content in Tags on Words of a terrible kid</description>
+    <title>Tags on Bits and Bytes from random blocks</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Bits and Bytes from random blocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mangesh.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Apr 2024 01:08:30 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best-Experiences</title>
+      <link>http://localhost:1313/tags/best-experiences/</link>
+      <pubDate>Mon, 08 Apr 2024 01:08:30 +0530</pubDate>
+      <guid>http://localhost:1313/tags/best-experiences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rant</title>
+      <link>http://localhost:1313/tags/rant/</link>
+      <pubDate>Mon, 18 Mar 2024 22:02:54 +0530</pubDate>
+      <guid>http://localhost:1313/tags/rant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Best-Experience</title>
+      <link>http://localhost:1313/tags/best-experience/</link>
+      <pubDate>Sun, 18 Feb 2024 15:07:26 +0530</pubDate>
+      <guid>http://localhost:1313/tags/best-experience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cmd-Line</title>
+      <link>http://localhost:1313/tags/cmd-line/</link>
+      <pubDate>Tue, 26 Dec 2023 01:36:25 +0530</pubDate>
+      <guid>http://localhost:1313/tags/cmd-line/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tags/tech/</link>
+      <pubDate>Tue, 26 Dec 2023 01:36:25 +0530</pubDate>
+      <guid>http://localhost:1313/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stories</title>
+      <link>http://localhost:1313/tags/stories/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book-Review</title>
+      <link>http://localhost:1313/tags/book-review/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/book-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dump</title>
+      <link>http://localhost:1313/tags/dump/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dump/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FOSS</title>
+      <link>http://localhost:1313/tags/foss/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/foss/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
