@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rant on Bits and Bytes from random blocks</title>
-    <link>http://localhost:1313/tags/rant/</link>
+    <link>https://mangesh.xyz/tags/rant/</link>
     <description>Recent content in Rant on Bits and Bytes from random blocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2024 22:02:54 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mangesh.xyz/tags/rant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making Parents Happy</title>
-      <link>http://localhost:1313/posts/making-parents-happy/</link>
+      <link>https://mangesh.xyz/posts/making-parents-happy/</link>
       <pubDate>Mon, 18 Mar 2024 22:02:54 +0530</pubDate>
-      <guid>http://localhost:1313/posts/making-parents-happy/</guid>
+      <guid>https://mangesh.xyz/posts/making-parents-happy/</guid>
       <description>It&amp;rsquo;s been almost 4-5+ years since I started feeling negative about the Indian Education System and the structure the Indian govt has for engineering colleges to be specific.&#xA;I thought of starting to build a team for managing and organizing regular monthly meetups in my city as a continuation of SolapurFOSS. We wanted new volunteers because I and a couple of my classmates (4 of us) organized and tried running SolapurFOSS smoothly but now we&amp;rsquo;re on the verge of exiting the college as it&amp;rsquo;s our 3 year and the last semester.</description>
     </item>
     <item>
       <title>Why Own a Website</title>
-      <link>http://localhost:1313/posts/why-own-a-website/</link>
+      <link>https://mangesh.xyz/posts/why-own-a-website/</link>
       <pubDate>Thu, 25 Jan 2024 02:51:03 +0530</pubDate>
-      <guid>http://localhost:1313/posts/why-own-a-website/</guid>
+      <guid>https://mangesh.xyz/posts/why-own-a-website/</guid>
       <description>Note: This post is subject to errors (grammatical or more) as i&amp;rsquo;m writing this to give a try at writing something in one go and at 3:00 AM. Pardon any errors!&#xA;Back in 2020, when I had got started living more on the internet and with virtual friends. I always had a weird attraction towards cool, minimal and very worn out websites which were very old (I still like finding such websites).</description>
     </item>
     <item>
       <title>Confused as a Student</title>
-      <link>http://localhost:1313/posts/confusion/</link>
+      <link>https://mangesh.xyz/posts/confusion/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/confusion/</guid>
+      <guid>https://mangesh.xyz/posts/confusion/</guid>
       <description>This blog is me ranting about why I am way too confused as a student.&#xA;What is the confusion about ? I am a Computer Engineering student pursuing my diploma in a private college in my city. Unlike the others, I am someone who questions every small thing a lot and at times I’m very rude to people of my age group near or around my college circle. I am barely accessible to everyone and do not have a big circle.</description>
     </item>
     <item>
       <title>Living Alone</title>
-      <link>http://localhost:1313/posts/livingalone/</link>
+      <link>https://mangesh.xyz/posts/livingalone/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/livingalone/</guid>
+      <guid>https://mangesh.xyz/posts/livingalone/</guid>
       <description>A random blog where I&amp;rsquo;m blabbering I recently moved to Bangalore, it&amp;rsquo;s called the IT/Technical Hub of India. Well, I moved here for my Internship at FOSS United. Thanks a lot to my managers they invited me to come and work from office. And for me this is kind of a very difference.&#xA;Before this I have never lived alone for more than 7 days, this is the first ever time when I&amp;rsquo;ll be leaving alone, 650 km away from my parents in a very new and busy city.</description>
     </item>
   </channel>

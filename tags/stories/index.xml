@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stories on Bits and Bytes from random blocks</title>
-    <link>http://localhost:1313/tags/stories/</link>
+    <link>https://mangesh.xyz/tags/stories/</link>
     <description>Recent content in Stories on Bits and Bytes from random blocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/stories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mangesh.xyz/tags/stories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conquering Maharashtras Highest Peak</title>
-      <link>http://localhost:1313/posts/kalsubai/</link>
+      <link>https://mangesh.xyz/posts/kalsubai/</link>
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kalsubai/</guid>
+      <guid>https://mangesh.xyz/posts/kalsubai/</guid>
       <description>This is a blog which will let y&amp;rsquo;all readers know how I am feeling after climbing Maharashtra&amp;rsquo;s highest peak. Words probably won&amp;rsquo;t be of much help but let&amp;rsquo;s give it a try.&#xA;It all starts with a post So, there&amp;rsquo;s a local community of trekkers in my city called EcoFriendlyClub. They&amp;rsquo;ve been organizing treks to various places in the Sahyadri Mountain Ranges from the last 7-8 years. I&amp;rsquo;ve been them many times to various places.</description>
     </item>
   </channel>
