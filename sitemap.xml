@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mangesh.xyz/</loc>
+    <lastmod>2024-05-05T23:49:47+05:30</lastmod>
+  </url><url>
+    <loc>https://mangesh.xyz/posts/</loc>
+    <lastmod>2024-05-05T23:49:47+05:30</lastmod>
+  </url><url>
+    <loc>https://mangesh.xyz/posts/flashbacks/</loc>
+    <lastmod>2024-05-05T23:49:47+05:30</lastmod>
+  </url><url>
     <loc>https://mangesh.xyz/tags/best-experiences/</loc>
     <lastmod>2024-04-08T01:08:30+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/</loc>
-    <lastmod>2024-04-08T01:08:30+05:30</lastmod>
-  </url><url>
     <loc>https://mangesh.xyz/posts/my-first-flight/</loc>
-    <lastmod>2024-04-08T01:08:30+05:30</lastmod>
-  </url><url>
-    <loc>https://mangesh.xyz/posts/</loc>
     <lastmod>2024-04-08T01:08:30+05:30</lastmod>
   </url><url>
     <loc>https://mangesh.xyz/tags/</loc>

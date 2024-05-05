@@ -4,10 +4,17 @@
     <title>Posts on Bits and Bytes from random blocks</title>
     <link>https://mangesh.xyz/posts/</link>
     <description>Recent content in Posts on Bits and Bytes from random blocks</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2024 01:08:30 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 23:49:47 +0530</lastBuildDate>
     <atom:link href="https://mangesh.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Showing a good Flashback</title>
+      <link>https://mangesh.xyz/posts/flashbacks/</link>
+      <pubDate>Sun, 05 May 2024 23:49:47 +0530</pubDate>
+      <guid>https://mangesh.xyz/posts/flashbacks/</guid>
+      <description>Recently, folks from OSM Delhi suggested we move to a complete FOSS Suite and we should be getting away from the Google Suite as we are &amp;ldquo;FOSS&amp;rdquo; United and we were actually making heavy use of GSuite. Hence, we were suggested to start the migration from Google Suite for stylesheets, docs, and other minor stuff to Nextcloud and we should be self-hosting it. Vishal told me about their conversation at DelhiFOSS, and I was pretty excited again to self-host nextcloud.</description>
+    </item>
     <item>
       <title>My First Flight</title>
       <link>https://mangesh.xyz/posts/my-first-flight/</link>

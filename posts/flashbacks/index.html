@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Showing a good Flashback - Bits and Bytes from random blocks</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	
+  <meta itemprop="name" content="Showing a good Flashback">
+  <meta itemprop="description" content="Recently, folks from OSM Delhi suggested we move to a complete FOSS Suite and we should be getting away from the Google Suite as we are &ldquo;FOSS&rdquo; United and we were actually making heavy use of GSuite. Hence, we were suggested to start the migration from Google Suite for stylesheets, docs, and other minor stuff to Nextcloud and we should be self-hosting it. Vishal told me about their conversation at DelhiFOSS, and I was pretty excited again to self-host nextcloud.">
+  <meta itemprop="datePublished" content="2024-05-05T23:49:47+05:30">
+  <meta itemprop="dateModified" content="2024-05-05T23:49:47+05:30">
+  <meta itemprop="wordCount" content="953"><meta property="og:url" content="https://mangesh.xyz/posts/flashbacks/">
+  <meta property="og:site_name" content="Bits and Bytes from random blocks">
+  <meta property="og:title" content="Showing a good Flashback">
+  <meta property="og:description" content="Recently, folks from OSM Delhi suggested we move to a complete FOSS Suite and we should be getting away from the Google Suite as we are “FOSS” United and we were actually making heavy use of GSuite. Hence, we were suggested to start the migration from Google Suite for stylesheets, docs, and other minor stuff to Nextcloud and we should be self-hosting it. Vishal told me about their conversation at DelhiFOSS, and I was pretty excited again to self-host nextcloud.">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-05-05T23:49:47+05:30">
+    <meta property="article:modified_time" content="2024-05-05T23:49:47+05:30">
+<meta name="twitter:card" content="summary"><meta name="twitter:title" content="Showing a good Flashback">
+<meta name="twitter:description" content="Recently, folks from OSM Delhi suggested we move to a complete FOSS Suite and we should be getting away from the Google Suite as we are &ldquo;FOSS&rdquo; United and we were actually making heavy use of GSuite. Hence, we were suggested to start the migration from Google Suite for stylesheets, docs, and other minor stuff to Nextcloud and we should be self-hosting it. Vishal told me about their conversation at DelhiFOSS, and I was pretty excited again to self-host nextcloud.">
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="screen" href="https://mangesh.xyz/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://mangesh.xyz/css/main.css" />
+
+        <link id="dark-scheme" rel="stylesheet" type="text/css" href="https://mangesh.xyz/css/dark.css" />
+
+	<script src="https://mangesh.xyz/js/feather.min.js"></script>
+	
+		<script src="https://mangesh.xyz/js/main.js"></script>
+</head>
+
+<article>
+	<div class="container wrapper">
+		<div class="post">
+			<div class="post-header">
+				
+				<div class="meta">
+					<div class="date">
+						<span class="day">05</span>
+						<span class="rest">May 2024</span>
+					</div>
+				</div>
+				
+				<div class="matter">
+					<h1 class="title">Showing a good Flashback</h1>
+				</div>
+
+				<div class="tags">
+					
+					
+					
+				</div>
+			</div>
+
+			<div class="markdown">
+				<p><img src="/nextcloud-ditch.jpg" alt="Nextcloud Ditch"></p>
+<p>Recently, folks from OSM Delhi suggested we move to a complete FOSS Suite and we should be getting away from the Google Suite as we are &ldquo;FOSS&rdquo; United and we were actually making heavy use of GSuite. Hence, we were suggested to start the migration from Google Suite for stylesheets, docs, and other minor stuff to Nextcloud and we should be self-hosting it. </p>
+<p><a href="https://wisharya.com">Vishal</a> told me about their conversation at DelhiFOSS, and I was pretty excited again to self-host nextcloud. I had always been thinking about alternatives to all of the non-FOSS software we were making use of daily. </p>
+<p>Around 20-25 days ago I self-hosted nextcloud on a fresh Linode with 2GB ram and 1 CPU, and this is obviously very slow for something like nextcloud even if the documentation mentions that this is the minimum nextcloud needs. But when it comes to multiple people running nextcloud its very important to have higher specs as there are continuous session breaks and lags. But while setting up I mistakenly left a security issue and did not notice that anyone with a &ldquo;fossunited.org&rdquo; domain was able to slide into our nextcloud instance. And Vishal asked me to fix it. </p>
+<p>Hence I came home opened nextcloud added Admin Verification and hovered through extensions to see if there were any options. Then I stumbled upon the SSO &amp; SAML Authentication extension, and this is where the fun begins. I googled about SAML and SSO information. For those of you who don&rsquo;t know SSO is Single-Sign-on basically which allows you to slide in if you have a username and password, you&rsquo;re good to go. The details are verified and you&rsquo;re allowed to get in. And SAML (Security Assertion Markup Language) is an XML standard that provides a safe and secure pathway for authentication by exchanging XML digitally signed XML documents. And going ahead I installed the extension :D and logged out to check the previous security feature I enabled, and after that I never got in until I did the fix yesterday (4th April 2024). </p>
+<p>I tried reading multiple threads on nextcloud forum and internet. Everyone had a similar error like in the image below but everyone had different sort of scenarios as the cause of the error. I tried reading the logs, but for a very newbie System Admin (would be a very wrong word lmao) like me, I wasn&rsquo;t able to solve or fix the issue at all. </p>
+<p><img src="/nextcloud-error.jpg" alt="Nextcloud Error"></p>
+<p>Hence, I reached out to one of my friend aka all time tech support - <a href="https://kayg.org">Kayg</a> and he is pretty experienced with all of these things. But, because of <a href="https://indiafoss.net/Mumbai/2024">MumbaiFOSS</a> I wasn&rsquo;t able to get on a with him and both of our times clashed. Meanwhile, I had also asked for help from <a href="https://blog.sahilister.in/">Sahil</a> and that was also pretty slow. So, from monday I did continuous calls with these folks to figure out and try solving the issue. For all 2 of them, the issue was very pretty new. The first day we were trying to debug the network and we noticed that the Server had firewall issues and the server wasn&rsquo;t returning any replies when giving a ping. Then we tried TCPdump, switched firewalls, and disabled-enabled it but nothing seemed to work. The call with sahil was major to fix the caddy service, but the issue was very weird and we thought of moving to nginx instead of Caddy as they weren&rsquo;t very familiar with caddy. </p>
+<p>The next day the calls with kayg went very fun, he gave 2-3 hours every day for the last 2-3 days and I got to learn a lot. We fixed caddy first of all by running caddy inside a container and not as a server system service. After that, it was time for the original nextcloud issues. </p>
+<p>All of the containers were running fine including Redis, nextcloud container, and apache which were our major suspicions. Kayg suggested I to change the docker network as mentioned in this <a href="https://github.com/nextcloud/all-in-one/discussions/2557">github issue</a>. And I did so, but that did not help either. </p>
+<p>But, the fun thing started when we invested 15 more minutes behind this and Kayg remembered that I told him that I had installed the SAML Auth Extension of Nextcloud. So, we did a <code>docker exec</code> into the nextcloud container and ran. </p>
+<p><code>sudo docker exec --user www-data -it nextcloud-aio-nextcloud php occ app:disable user_saml</code> </p>
+<p>restarted the container and the service, and after a reload everything was back to normal. It was a damn funny and laughing moment for us. </p>
+<h6 id="its-okay-to-sound-like-a-pain-in-the-ass">It&rsquo;s okay to sound like a pain in the ass</h6>
+<p>One thing I feel is always important as someone who is asking for help is that you should be able to give a good <strong>Flashback</strong> of everything from top to bottom about whatever you did while you&rsquo;re asking for some technical help even if that annoys the individual to death. They might call you dumb or anything, but I guess that&rsquo;s not very important in that situation right?</p>
+<p>I had learned this during the initial days when I used to break stuff almost every day and then try solving, give up and reach out to people. Even, if I was redirected to Google or websites, folks used to listen to everything I had done from the first command or first step. </p>
+<p>Imagine if I had not told both sahil and kayg about my extension installation scenario we would&rsquo;ve ended up debugging an issue that did not really exist forever or even getting pissed off and reinstalling nextcloud on a fresh new server. </p>
+<p>I&rsquo;d like to cite this from <a href="https://jvns.ca/blog/good-questions/">Julia&rsquo;s Blog</a></p>
+<blockquote>
+<p><em>State what you understand about the subject so far</em></p>
+</blockquote>
+<p>So, being able to explain everything is a very important skill and also needs practice.</p>
+
+			</div>
+
+		</div>
+	</div>
+</article>
+<div class="footer wrapper">
+	<nav class="nav">
+		<div>Made with <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+<script>feather.replace()</script>
+
+</html>
