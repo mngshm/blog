@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Best-Experiences on Bits and Bytes from random blocks</title>
-    <link>https://mangesh.xyz/tags/best-experiences/</link>
+    <link>http://localhost:1313/tags/best-experiences/</link>
     <description>Recent content in Best-Experiences on Bits and Bytes from random blocks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Apr 2024 01:08:30 +0530</lastBuildDate>
-    <atom:link href="https://mangesh.xyz/tags/best-experiences/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/best-experiences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Flight</title>
-      <link>https://mangesh.xyz/posts/my-first-flight/</link>
+      <link>http://localhost:1313/posts/my-first-flight/</link>
       <pubDate>Mon, 08 Apr 2024 01:08:30 +0530</pubDate>
-      <guid>https://mangesh.xyz/posts/my-first-flight/</guid>
+      <guid>http://localhost:1313/posts/my-first-flight/</guid>
       <description>As always, it all starts with adventures and problems, and in a way that I can later laugh at. This was a similar way.&#xA;IndiaFOSS 3.0 IndiaFOSS 3.0 was around the corner and we all were preparing for the conference working hard day and night without sleep. That day all of a sudden from nowhere my friends told me that my class test was announced for 26-27-28 October and IndiaFOSS 3.</description>
     </item>
   </channel>

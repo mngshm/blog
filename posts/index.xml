@@ -2,108 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bits and Bytes from random blocks</title>
-    <link>https://mangesh.xyz/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Bits and Bytes from random blocks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2024 23:49:47 +0530</lastBuildDate>
-    <atom:link href="https://mangesh.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 16:34:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrospective on 3 years of Diploma College</title>
+      <link>http://localhost:1313/posts/retrospective/</link>
+      <pubDate>Sun, 02 Jun 2024 16:34:33 +0530</pubDate>
+      <guid>http://localhost:1313/posts/retrospective/</guid>
+      <description>Photo by Daria Nepriakhina 🇺🇦 on Unsplash&#xA;Backstory So, for those of you who don’t know Diploma or Polytechnic is exactly very similar to Engineering or the formal engineering degree which you do after fucking yourself up with JEE or +1, +2. The way a polytechnic course is exactly similar to a Degree course, hence, I like a Polytechnic or Diploma as the lite mode of engineering. Because, it&amp;rsquo;s a 3-year course, 1st year being the basics with all the mixed things and then setting out paths for the specific fields you want to pursue.</description>
+    </item>
     <item>
       <title>Showing a good Flashback</title>
-      <link>https://mangesh.xyz/posts/flashbacks/</link>
+      <link>http://localhost:1313/posts/flashbacks/</link>
       <pubDate>Sun, 05 May 2024 23:49:47 +0530</pubDate>
-      <guid>https://mangesh.xyz/posts/flashbacks/</guid>
+      <guid>http://localhost:1313/posts/flashbacks/</guid>
       <description>Recently, folks from OSM Delhi suggested we move to a complete FOSS Suite and we should be getting away from the Google Suite as we are &amp;ldquo;FOSS&amp;rdquo; United and we were actually making heavy use of GSuite. Hence, we were suggested to start the migration from Google Suite for stylesheets, docs, and other minor stuff to Nextcloud and we should be self-hosting it. Vishal told me about their conversation at DelhiFOSS, and I was pretty excited again to self-host nextcloud.</description>
     </item>
     <item>
       <title>My First Flight</title>
-      <link>https://mangesh.xyz/posts/my-first-flight/</link>
+      <link>http://localhost:1313/posts/my-first-flight/</link>
       <pubDate>Mon, 08 Apr 2024 01:08:30 +0530</pubDate>
-      <guid>https://mangesh.xyz/posts/my-first-flight/</guid>
+      <guid>http://localhost:1313/posts/my-first-flight/</guid>
       <description>As always, it all starts with adventures and problems, and in a way that I can later laugh at. This was a similar way.&#xA;IndiaFOSS 3.0 IndiaFOSS 3.0 was around the corner and we all were preparing for the conference working hard day and night without sleep. That day all of a sudden from nowhere my friends told me that my class test was announced for 26-27-28 October and IndiaFOSS 3.</description>
     </item>
     <item>
       <title>Making Parents Happy</title>
-      <link>https://mangesh.xyz/posts/making-parents-happy/</link>
+      <link>http://localhost:1313/posts/making-parents-happy/</link>
       <pubDate>Mon, 18 Mar 2024 22:02:54 +0530</pubDate>
-      <guid>https://mangesh.xyz/posts/making-parents-happy/</guid>
+      <guid>http://localhost:1313/posts/making-parents-happy/</guid>
       <description>It&amp;rsquo;s been almost 4-5+ years since I started feeling negative about the Indian Education System and the structure the Indian govt has for engineering colleges to be specific.&#xA;I thought of starting to build a team for managing and organizing regular monthly meetups in my city as a continuation of SolapurFOSS. We wanted new volunteers because I and a couple of my classmates (4 of us) organized and tried running SolapurFOSS smoothly but now we&amp;rsquo;re on the verge of exiting the college as it&amp;rsquo;s our 3 year and the last semester.</description>
     </item>
     <item>
       <title>Trying to Fix Without Even Breaking</title>
-      <link>https://mangesh.xyz/posts/trying-to-fix-without-even-breaking/</link>
+      <link>http://localhost:1313/posts/trying-to-fix-without-even-breaking/</link>
       <pubDate>Sun, 18 Feb 2024 15:07:26 +0530</pubDate>
-      <guid>https://mangesh.xyz/posts/trying-to-fix-without-even-breaking/</guid>
+      <guid>http://localhost:1313/posts/trying-to-fix-without-even-breaking/</guid>
       <description>So, a few days ago (2 weeks probably) I noticed a lot of heat on the bottom side of my laptop only when I was plugged in. So, I started looking up solutions on the internet and installed auto-cpufreq and also started using thermald which I knew before too but had not installed on my Thinkpad t490. So, I did and casually I thought that I would also additionally install and configure thermald.</description>
     </item>
     <item>
       <title>Why Own a Website</title>
-      <link>https://mangesh.xyz/posts/why-own-a-website/</link>
+      <link>http://localhost:1313/posts/why-own-a-website/</link>
       <pubDate>Thu, 25 Jan 2024 02:51:03 +0530</pubDate>
-      <guid>https://mangesh.xyz/posts/why-own-a-website/</guid>
+      <guid>http://localhost:1313/posts/why-own-a-website/</guid>
       <description>Note: This post is subject to errors (grammatical or more) as i&amp;rsquo;m writing this to give a try at writing something in one go and at 3:00 AM. Pardon any errors!&#xA;Back in 2020, when I had got started living more on the internet and with virtual friends. I always had a weird attraction towards cool, minimal and very worn out websites which were very old (I still like finding such websites).</description>
     </item>
     <item>
       <title>Christmas Night With Tmp Files</title>
-      <link>https://mangesh.xyz/posts/christmas-night-with-tmp-files/</link>
+      <link>http://localhost:1313/posts/christmas-night-with-tmp-files/</link>
       <pubDate>Tue, 26 Dec 2023 01:36:25 +0530</pubDate>
-      <guid>https://mangesh.xyz/posts/christmas-night-with-tmp-files/</guid>
+      <guid>http://localhost:1313/posts/christmas-night-with-tmp-files/</guid>
       <description>This is a blog that will help me always remember that checking the command twice before running is the best way to not lead towards any fuck ups on a Linux machine. and also to give me trauma even ahead in the future.&#xA;I noticed tmp files I was working on some things inside the terminal and I noticed that there are a lot of temporary files with names ~/.bash_history-some id.</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://mangesh.xyz/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 02 Dec 2023 01:40:19 +0530</pubDate>
-      <guid>https://mangesh.xyz/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Hi, I&amp;rsquo;m Mangesh. I am a student, tinkerer and a geek pursuing a Diploma curse. I am a person of diverse interests and opinions. I am a Free Software enthusiast and one of the first Free Software I used in my initial days was Linux and have been using it since then as a daily driver.&#xA;This is my personal blog page, where I want to rant, present my opinions and write notes of whatever I want to.</description>
     </item>
     <item>
       <title>Confused as a Student</title>
-      <link>https://mangesh.xyz/posts/confusion/</link>
+      <link>http://localhost:1313/posts/confusion/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://mangesh.xyz/posts/confusion/</guid>
+      <guid>http://localhost:1313/posts/confusion/</guid>
       <description>This blog is me ranting about why I am way too confused as a student.&#xA;What is the confusion about ? I am a Computer Engineering student pursuing my diploma in a private college in my city. Unlike the others, I am someone who questions every small thing a lot and at times I’m very rude to people of my age group near or around my college circle. I am barely accessible to everyone and do not have a big circle.</description>
     </item>
     <item>
       <title>Living Alone</title>
-      <link>https://mangesh.xyz/posts/livingalone/</link>
+      <link>http://localhost:1313/posts/livingalone/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://mangesh.xyz/posts/livingalone/</guid>
+      <guid>http://localhost:1313/posts/livingalone/</guid>
       <description>A random blog where I&amp;rsquo;m blabbering I recently moved to Bangalore, it&amp;rsquo;s called the IT/Technical Hub of India. Well, I moved here for my Internship at FOSS United. Thanks a lot to my managers they invited me to come and work from office. And for me this is kind of a very difference.&#xA;Before this I have never lived alone for more than 7 days, this is the first ever time when I&amp;rsquo;ll be leaving alone, 650 km away from my parents in a very new and busy city.</description>
     </item>
     <item>
       <title>Conquering Maharashtras Highest Peak</title>
-      <link>https://mangesh.xyz/posts/kalsubai/</link>
+      <link>http://localhost:1313/posts/kalsubai/</link>
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://mangesh.xyz/posts/kalsubai/</guid>
+      <guid>http://localhost:1313/posts/kalsubai/</guid>
       <description>This is a blog which will let y&amp;rsquo;all readers know how I am feeling after climbing Maharashtra&amp;rsquo;s highest peak. Words probably won&amp;rsquo;t be of much help but let&amp;rsquo;s give it a try.&#xA;It all starts with a post So, there&amp;rsquo;s a local community of trekkers in my city called EcoFriendlyClub. They&amp;rsquo;ve been organizing treks to various places in the Sahyadri Mountain Ranges from the last 7-8 years. I&amp;rsquo;ve been them many times to various places.</description>
     </item>
     <item>
       <title>Surely you&#39;re Joking Mr.Feynman</title>
-      <link>https://mangesh.xyz/posts/sujmf/</link>
+      <link>http://localhost:1313/posts/sujmf/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://mangesh.xyz/posts/sujmf/</guid>
+      <guid>http://localhost:1313/posts/sujmf/</guid>
       <description>Book Review - Surely You&amp;rsquo;re Joking Mr. Feynman So, those of you who like reading, physics and crazy brains. You might have come across a famous, physicist and he is called ~Dick Feynman~ Richard Feynman. He was a physicist, a curious, a natural problem solver. This blog is all about one of his biographical books named &amp;ldquo;Surely You&amp;rsquo;re Joking Mr. Richard&amp;rdquo;.&#xA;How I came across the book? I am a curious guy and I came across Richard Feynman through one of my friends Github Readme.</description>
     </item>
     <item>
       <title>Resources I use</title>
-      <link>https://mangesh.xyz/posts/resources/</link>
+      <link>http://localhost:1313/posts/resources/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://mangesh.xyz/posts/resources/</guid>
+      <guid>http://localhost:1313/posts/resources/</guid>
       <description>These are some of the blogs/articles and links to important resources which I refer to or love reading. This list will keep on updating in the future too!&#xA;Articles/Blogs How to Become a Hacker The Scene Linux users vs Linux Culture A start to programming About Atul Phrack Some good blogs from people rgz wother&amp;rsquo;s avatar git ti and tri Resources tldp Kernel Newbies: Soon when I get a long hooooliday will study this!</description>
     </item>
     <item>
       <title>Experience at PuneFOSS&#39;23</title>
-      <link>https://mangesh.xyz/posts/punefoss/</link>
+      <link>http://localhost:1313/posts/punefoss/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://mangesh.xyz/posts/punefoss/</guid>
+      <guid>http://localhost:1313/posts/punefoss/</guid>
       <description>How it started ? A few days ago, as you may know, I attended MumbaiFOSS. I actually booked tickets for both Mumbai and Pune FOSS events because the reason behind booking both was that whatever I learned from MumbaiFOSS, I could apply in PuneFOSS. I didn&amp;rsquo;t want to just be an attendee at events. It felt weird to just go and listen, attend and get a couple of swags. I was already familiar with public speaking, as I had given introductory talks on Brain Chips in my class and in competitions.</description>
     </item>
     <item>
       <title>MumbaiFOSS 23</title>
-      <link>https://mangesh.xyz/posts/mumbaifoss/</link>
+      <link>http://localhost:1313/posts/mumbaifoss/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://mangesh.xyz/posts/mumbaifoss/</guid>
+      <guid>http://localhost:1313/posts/mumbaifoss/</guid>
       <description>My journey to MumbaiFOSS and my experience there I&amp;rsquo;m doing my 2nd-year diploma in computer engineering. I have always been a huge fan of FOSS such as GNU/Linux, it was the reason I chose computer engineering but unfortunately, there was nothing in-depth on it in my course curriculum. I had seen people share posters of a FOSS event called IndiaFOSS on LinkedIn. I just looked up about it on the internet, it was conducted by FOSS United, a foundation that aims at promoting and strengthening the FOSS ecosystem in India.</description>
     </item>
   </channel>

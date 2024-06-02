@@ -13,6 +13,7 @@ a {
   text-decoration: noone;
   word-break: break-word;
 }
+
 a:hover {
   border-bottom: 2px solid black;
 }
@@ -31,6 +32,12 @@ html,button,input,select,textarea {
   background: black;
   text-shadow: none;
   color: #fff;
+}
+
+em {
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 hr {
@@ -105,7 +112,7 @@ textarea {
 blockquote {
     margin-left: 1rem;
     font-style: italic;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-family: Georgia,bitstream charter,serif;
     border-left: 3px solid;
     border-color: #3700ff;
@@ -113,7 +120,7 @@ blockquote {
 }
 
 blockquote cite {
-    font-size: 70%;
+    font-size: 50%;
     opacity: .8;
 }
 
@@ -335,7 +342,7 @@ ul {
 .post-header h1.title {
     margin: -10px 0 0 0;
     text-align: center;
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 .post .title.small {
@@ -345,6 +352,9 @@ ul {
     margin-bottom: 30px;
 }
 
+.post p {
+  font-size: 20px;
+}
 .post .draft-label {
     color: black;
     text-decoration: none;

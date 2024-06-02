@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Bits and Bytes from random blocks</title>
-    <link>https://mangesh.xyz/tags/tech/</link>
+    <link>http://localhost:1313/tags/tech/</link>
     <description>Recent content in Tech on Bits and Bytes from random blocks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Dec 2023 01:36:25 +0530</lastBuildDate>
-    <atom:link href="https://mangesh.xyz/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Christmas Night With Tmp Files</title>
-      <link>https://mangesh.xyz/posts/christmas-night-with-tmp-files/</link>
+      <link>http://localhost:1313/posts/christmas-night-with-tmp-files/</link>
       <pubDate>Tue, 26 Dec 2023 01:36:25 +0530</pubDate>
-      <guid>https://mangesh.xyz/posts/christmas-night-with-tmp-files/</guid>
+      <guid>http://localhost:1313/posts/christmas-night-with-tmp-files/</guid>
       <description>This is a blog that will help me always remember that checking the command twice before running is the best way to not lead towards any fuck ups on a Linux machine. and also to give me trauma even ahead in the future.&#xA;I noticed tmp files I was working on some things inside the terminal and I noticed that there are a lot of temporary files with names ~/.bash_history-some id.</description>
     </item>
   </channel>

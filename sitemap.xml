@@ -2,87 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mangesh.xyz/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-02T16:34:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-06-02T16:34:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/retrospective/</loc>
+    <lastmod>2024-06-02T16:34:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/flashbacks/</loc>
     <lastmod>2024-05-05T23:49:47+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/</loc>
-    <lastmod>2024-05-05T23:49:47+05:30</lastmod>
-  </url><url>
-    <loc>https://mangesh.xyz/posts/flashbacks/</loc>
-    <lastmod>2024-05-05T23:49:47+05:30</lastmod>
-  </url><url>
-    <loc>https://mangesh.xyz/tags/best-experiences/</loc>
+    <loc>http://localhost:1313/tags/best-experiences/</loc>
     <lastmod>2024-04-08T01:08:30+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/my-first-flight/</loc>
+    <loc>http://localhost:1313/posts/my-first-flight/</loc>
     <lastmod>2024-04-08T01:08:30+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-04-08T01:08:30+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/making-parents-happy/</loc>
+    <loc>http://localhost:1313/posts/making-parents-happy/</loc>
     <lastmod>2024-03-18T22:02:54+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/tags/rant/</loc>
+    <loc>http://localhost:1313/tags/rant/</loc>
     <lastmod>2024-03-18T22:02:54+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/tags/best-experience/</loc>
+    <loc>http://localhost:1313/tags/best-experience/</loc>
     <lastmod>2024-02-18T15:07:26+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/trying-to-fix-without-even-breaking/</loc>
+    <loc>http://localhost:1313/posts/trying-to-fix-without-even-breaking/</loc>
     <lastmod>2024-02-18T15:07:26+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/uses/</loc>
+    <loc>http://localhost:1313/uses/</loc>
     <lastmod>2024-02-10T18:52:10+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/why-own-a-website/</loc>
+    <loc>http://localhost:1313/posts/why-own-a-website/</loc>
     <lastmod>2024-01-25T02:51:03+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/christmas-night-with-tmp-files/</loc>
+    <loc>http://localhost:1313/posts/christmas-night-with-tmp-files/</loc>
     <lastmod>2023-12-26T01:36:25+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/tags/cmd-line/</loc>
+    <loc>http://localhost:1313/tags/cmd-line/</loc>
     <lastmod>2023-12-26T01:36:25+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/tags/tech/</loc>
+    <loc>http://localhost:1313/tags/tech/</loc>
     <lastmod>2023-12-26T01:36:25+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2023-12-02T01:40:19+05:30</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/confusion/</loc>
+    <loc>http://localhost:1313/posts/confusion/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/livingalone/</loc>
+    <loc>http://localhost:1313/posts/livingalone/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/kalsubai/</loc>
+    <loc>http://localhost:1313/posts/kalsubai/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/tags/stories/</loc>
+    <loc>http://localhost:1313/tags/stories/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/tags/book-review/</loc>
+    <loc>http://localhost:1313/tags/book-review/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/sujmf/</loc>
+    <loc>http://localhost:1313/posts/sujmf/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/tags/dump/</loc>
+    <loc>http://localhost:1313/tags/dump/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/resources/</loc>
+    <loc>http://localhost:1313/posts/resources/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/punefoss/</loc>
+    <loc>http://localhost:1313/posts/punefoss/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/tags/foss/</loc>
+    <loc>http://localhost:1313/tags/foss/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/posts/mumbaifoss/</loc>
+    <loc>http://localhost:1313/posts/mumbaifoss/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mangesh.xyz/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
