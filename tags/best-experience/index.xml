@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Best-Experience on Bits and Bytes from random blocks</title>
-    <link>http://localhost:1313/tags/best-experience/</link>
+    <link>https://mangesh.xyz/tags/best-experience/</link>
     <description>Recent content in Best-Experience on Bits and Bytes from random blocks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Feb 2024 15:07:26 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/best-experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mangesh.xyz/tags/best-experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trying to Fix Without Even Breaking</title>
-      <link>http://localhost:1313/posts/trying-to-fix-without-even-breaking/</link>
+      <link>https://mangesh.xyz/posts/trying-to-fix-without-even-breaking/</link>
       <pubDate>Sun, 18 Feb 2024 15:07:26 +0530</pubDate>
-      <guid>http://localhost:1313/posts/trying-to-fix-without-even-breaking/</guid>
+      <guid>https://mangesh.xyz/posts/trying-to-fix-without-even-breaking/</guid>
       <description>So, a few days ago (2 weeks probably) I noticed a lot of heat on the bottom side of my laptop only when I was plugged in. So, I started looking up solutions on the internet and installed auto-cpufreq and also started using thermald which I knew before too but had not installed on my Thinkpad t490. So, I did and casually I thought that I would also additionally install and configure thermald.</description>
     </item>
   </channel>

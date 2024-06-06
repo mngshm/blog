@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dump on Bits and Bytes from random blocks</title>
-    <link>http://localhost:1313/tags/dump/</link>
+    <link>https://mangesh.xyz/tags/dump/</link>
     <description>Recent content in Dump on Bits and Bytes from random blocks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/dump/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mangesh.xyz/tags/dump/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resources I use</title>
-      <link>http://localhost:1313/posts/resources/</link>
+      <link>https://mangesh.xyz/posts/resources/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/resources/</guid>
+      <guid>https://mangesh.xyz/posts/resources/</guid>
       <description>These are some of the blogs/articles and links to important resources which I refer to or love reading. This list will keep on updating in the future too!&#xA;Articles/Blogs How to Become a Hacker The Scene Linux users vs Linux Culture A start to programming About Atul Phrack Some good blogs from people rgz wother&amp;rsquo;s avatar git ti and tri Resources tldp Kernel Newbies: Soon when I get a long hooooliday will study this!</description>
     </item>
   </channel>
