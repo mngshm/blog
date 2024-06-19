@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mangesh.xyz/posts/love-ffmpeg-magick/</loc>
+    <lastmod>2024-06-16T11:15:36+05:30</lastmod>
+  </url><url>
+    <loc>https://mangesh.xyz/tags/ffmpeg/</loc>
+    <lastmod>2024-06-16T11:15:36+05:30</lastmod>
+  </url><url>
+    <loc>https://mangesh.xyz/tags/imagemagick/</loc>
+    <lastmod>2024-06-16T11:15:36+05:30</lastmod>
+  </url><url>
+    <loc>https://mangesh.xyz/tags/</loc>
+    <lastmod>2024-06-16T11:15:36+05:30</lastmod>
+  </url><url>
     <loc>https://mangesh.xyz/posts/retrospective/</loc>
     <lastmod>2024-06-02T16:34:33+05:30</lastmod>
   </url><url>
@@ -12,9 +24,6 @@
     <lastmod>2024-04-08T01:08:30+05:30</lastmod>
   </url><url>
     <loc>https://mangesh.xyz/posts/my-first-flight/</loc>
-    <lastmod>2024-04-08T01:08:30+05:30</lastmod>
-  </url><url>
-    <loc>https://mangesh.xyz/tags/</loc>
     <lastmod>2024-04-08T01:08:30+05:30</lastmod>
   </url><url>
     <loc>https://mangesh.xyz/posts/making-parents-happy/</loc>

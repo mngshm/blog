@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ffmpeg on Bits and Bytes from random blocks</title>
+    <link>https://mangesh.xyz/tags/ffmpeg/</link>
+    <description>Recent content in Ffmpeg on Bits and Bytes from random blocks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2024 11:15:36 +0530</lastBuildDate>
+    <atom:link href="https://mangesh.xyz/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feeling powerful with FFmpeg and Imagemagick</title>
+      <link>https://mangesh.xyz/posts/love-ffmpeg-magick/</link>
+      <pubDate>Sun, 16 Jun 2024 11:15:36 +0530</pubDate>
+      <guid>https://mangesh.xyz/posts/love-ffmpeg-magick/</guid>
+      <description>Introduction Recently, I took the task of writing the user documentation for the FOSS United Dashboard. It&amp;rsquo;s an event management dashboard made available to all the city chapter volunteers who can CRUD manage FOSS Meetups, Events, and Hackathons. Ngl, it was good and it is indeed very hard to write good documentation, I did terrible work. It slowly felt unexcited, so I thought of making some asset in it exciting</description>
+    </item>
+  </channel>
+</rss>

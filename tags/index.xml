@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Bits and Bytes from random blocks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2024 01:08:30 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 11:15:36 +0530</lastBuildDate>
     <atom:link href="https://mangesh.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ffmpeg</title>
+      <link>https://mangesh.xyz/tags/ffmpeg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mangesh.xyz/tags/ffmpeg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Imagemagick</title>
+      <link>https://mangesh.xyz/tags/imagemagick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mangesh.xyz/tags/imagemagick/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Best-Experiences</title>
       <link>https://mangesh.xyz/tags/best-experiences/</link>

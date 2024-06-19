@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Feeling powerful with FFmpeg and Imagemagick - Bits and Bytes from random blocks</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	
+  <meta itemprop="name" content="Feeling powerful with FFmpeg and Imagemagick">
+  <meta itemprop="description" content="Introduction Recently, I took the task of writing the user documentation for the FOSS United Dashboard. It’s an event management dashboard made available to all the city chapter volunteers who can CRUD manage FOSS Meetups, Events, and Hackathons. Ngl, it was good and it is indeed very hard to write good documentation, I did terrible work. It slowly felt unexcited, so I thought of making some asset in it exciting">
+  <meta itemprop="datePublished" content="2024-06-16T11:15:36+05:30">
+  <meta itemprop="dateModified" content="2024-06-16T11:15:36+05:30">
+  <meta itemprop="wordCount" content="1303">
+  <meta itemprop="keywords" content="Ffmpeg,Imagemagick"><meta property="og:url" content="https://mangesh.xyz/posts/love-ffmpeg-magick/">
+  <meta property="og:site_name" content="Bits and Bytes from random blocks">
+  <meta property="og:title" content="Feeling powerful with FFmpeg and Imagemagick">
+  <meta property="og:description" content="Introduction Recently, I took the task of writing the user documentation for the FOSS United Dashboard. It’s an event management dashboard made available to all the city chapter volunteers who can CRUD manage FOSS Meetups, Events, and Hackathons. Ngl, it was good and it is indeed very hard to write good documentation, I did terrible work. It slowly felt unexcited, so I thought of making some asset in it exciting">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-06-16T11:15:36+05:30">
+    <meta property="article:modified_time" content="2024-06-16T11:15:36+05:30">
+    <meta property="article:tag" content="Ffmpeg">
+    <meta property="article:tag" content="Imagemagick">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Feeling powerful with FFmpeg and Imagemagick">
+  <meta name="twitter:description" content="Introduction Recently, I took the task of writing the user documentation for the FOSS United Dashboard. It’s an event management dashboard made available to all the city chapter volunteers who can CRUD manage FOSS Meetups, Events, and Hackathons. Ngl, it was good and it is indeed very hard to write good documentation, I did terrible work. It slowly felt unexcited, so I thought of making some asset in it exciting">
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="screen" href="https://mangesh.xyz/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://mangesh.xyz/css/main.css" />
+
+        <link id="dark-scheme" rel="stylesheet" type="text/css" href="https://mangesh.xyz/css/dark.css" />
+
+	<script src="https://mangesh.xyz/js/feather.min.js"></script>
+	
+		<script src="https://mangesh.xyz/js/main.js"></script>
+</head>
+
+<article>
+	<div class="container wrapper">
+		<div class="post">
+			<div class="post-header">
+				
+				<div class="meta">
+					<div class="date">
+						<span class="day">16</span>
+						<span class="rest">Jun 2024</span>
+					</div>
+				</div>
+				
+				<div class="matter">
+					<h1 class="title">Feeling powerful with FFmpeg and Imagemagick</h1>
+				</div>
+
+				<div class="tags">
+					
+					
+					<ul class="flat">
+						
+						<li><a href="/%20/tags/ffmpeg"># ffmpeg</a></li>
+						
+						<li><a href="/%20/tags/imagemagick"># imagemagick</a></li>
+						
+					</ul>
+					
+					
+				</div>
+			</div>
+
+			<div class="markdown">
+				<h3 id="introduction"><strong>Introduction</strong></h3>
+<p>Recently, I took the task of writing the user documentation for the <a href="fossunited.org/manual">FOSS United Dashboard</a>. It&rsquo;s an event management dashboard made available to all the city chapter volunteers who can CRUD manage FOSS Meetups, Events, and Hackathons. Ngl, it was good and it is indeed very hard to write good documentation, I did terrible work. It slowly felt unexcited, so I thought of making some asset in it exciting</p>
+<p>A lot of my friends on Telegram talked about FFMPeg when I was around 15 or 16 and I had no clue what it was, from the last 1 year I&rsquo;ve been trying to bring FFMPeg and Imagemagick in hand. In this blog, I want to share some snippets or scripts on using FFmpeg and ImageMagick daily.</p>
+<h3 id="imagemagick"><strong>Imagemagick</strong></h3>
+<p>The grudge was to take beautiful screenshots from a long time. MacOS has good inbuilt proprietary tools to beautify a screenshot. In the Ricers community, there have been many people who did that with the help of ImageMagick and I had done this before as well. I&rsquo;ve been
+very lazy for a long time and I was manually capturing screenshots whenever needed. 2 weeks ago I decided I&rsquo;d nail it down this time and fixed my i3 config to automate taking screenshots by applying the ImageMagick effect in it.</p>
+<p><img src="/demo.png" alt="neofetch scrot">
+<em>demo of how my screenshots look</em></p>
+<p>I use i3-gaps as my window manager, so I&rsquo;ve configured keys to take screenshots with maim, and
+then in the pipeline magick does its magic of adding a dark background and some drop shadow to the image. The command is as follows</p>
+<p><code>maim -s --hidecursor | magick - \( +clone -background black -shadow 50x50 \) +swap -background &quot;#141b1e&quot; -layers merge +repage ~/Pictures/Capture-$(date +%h-%d-%H-%M-%S)</code></p>
+<p>for selecting the area you want to take screenshots off</p>
+<p><code>maim -d 3 --hidecursor  | magick - \( +clone -background black -shadow 50x50 \) +swap -background &quot;#141b1e&quot; -layers merge +repage ~/Pictures/Capture-$(date +%h-%d-%H-%M-%S)</code></p>
+<p>for taking a full-screen screenshot.</p>
+<p>And to make them work automatically I have bound them with keys in the i3 window manager to provide ease. You can also pipe <code>clip</code> to copy the image to your clipboard and use <a href="https://tesseract-ocr.github.io/tessdoc/">tesseract</a> if you you need text recognition and OCR.</p>
+<p>ImageMagick can do more <a href="https://imagemagick.org/index.php">exciting stuff</a>, I use it almost whenever I want to grayscale, rotate, or convert any of my screenshots or photographs</p>
+<h3 id="ffmpeg"><strong>FFmpeg</strong></h3>
+<p>So, for those of who you don&rsquo;t know, let me tell you - FFmpeg is the real chad, FFmpeg is literally a video editor on the command line. Again, I use FFmpeg almost everywhere possible be it trying to convert FLAC audio into various sizes of opus or vice versa, trimming videos, or recording my screen (it is a pain, but try).</p>
+<p>Getting back to the original story, I also had to record gifs or tutorials to add ease for the volunteers to understand the workings of our dashboard manager. So, I thought why not also make a gif of a similar style to the ImageMagick screenshot I take? It got pretty exciting and I could feel it. I had previously seen how beautiful and elegant MacOS screen recordings look.</p>
+<h3 id="the-end-goal"><strong>The end goal</strong></h3>
+<p>The same command can&rsquo;t be applied on a GIF or mp4 format video of course, because it&rsquo;s common sense that ImageMagick only does magick on image formats. I was parallelly talking in a telegram group about all this and <a href="">Mani sir</a> showed up and gave me the idea that I could extract each frame from a screenshot, then searching started and I found some commands which were doing what I wanted. I&rsquo;ll break it down below</p>
+<p>Firstly, extracting all the frames from the mp4 file (GIF won&rsquo;t give you HQ, so don&rsquo;t get fooled) but no one is stopping you from extracting from a GIF</p>
+<p><code>ffmpeg -i &lt;file&gt;.mp4 -vf fps=12 out%d.png</code></p>
+<p>extracting in 12+ FPS is recommended if you have a great CPU and a heavy resource computer, because, in the next steps, it will take you an eternity to do the stuff coming ahead.
+So, if one mp4 has 30 frames at 12 FPS then 12*30 = 350 photos.</p>
+<p>The MP4 I had was around 30-60sec (I don&rsquo;t remember correctly) but after extracting I got 490 frames :D and it got painful later. IIRC I had set fps=8</p>
+<p>I made a very simple script called meckos for the purpose of converting a normal image into the Magick version with a background and drop shadow effect.</p>
+<p><code>for i in *.png ; do meckos $i converted_$i ; done</code></p>
+<p>With this for loop, I get all the frames converted into a magick version. Converting 480 frames took a lot of time and my laptop started heating a bit. This was because I did not do any kind of optimization you can do more optimization in the above command by running the processes parallelly.</p>
+<p>It&rsquo;s time you bring every back together in a tight brotherhood bond lol.</p>
+<p><code>ffmpeg -i converted_out%d.png  output.mp4</code></p>
+<p>With this command, all of the frames will turn back into an MP4 video, but it will be very fast in the first go and won&rsquo;t look very pleasing. For that, we have to increase the speed of the video. The commands here were given to me by Arun as he found this, so it&rsquo;s great thanks to him. He was there with me in the whole process guiding through and tinkering with me.</p>
+<p><code>ffmpeg -i &lt;file&gt;.mp4 -map 0:v -c:v copy -bsf:v hevc_mp4toannexb raw.h265</code></p>
+<p>So, whatever is available on the top level of the internet is usually heavily compressed, and a lot of details in it are lost be it (information or) media. raw.h264 or raw.h265 here is the lossless version of videos, cameras usually record footage in the RAW () Codec which provides seamless and lossless video at its highest capability in quality. HEVC (High-Efficiency Video Coding) is the international standard of Video Compression where the quality is very high and exactly the same as 4k.</p>
+<p>So, after the above command, we get the raw.h265 file which is the highest quality video I have of my fast af video. This step is essential to convert your video into a faster one, because if you slow down your video on the fastened video then it is likely to lose quality.</p>
+<p>The final step, bring it to the speed of video so that it looks normal for humans lol.</p>
+<p><code>ffmpeg -fflags +genpts -r 30 -i raw.h264 -c:v copy &lt;output-file&gt;.mp4</code></p>
+<p>-r is used to set the framerate again here, 30 is what I thought should be okay to display, but it was actually -5% of the decent level of video. One of my friends roasted the GIF in one sight.</p>
+<h3 id="conclusion"><strong>Conclusion</strong></h3>
+<p>No conclusion, this was just the first part, I did a hell lot of more things after that which I am not including here as the blog is getting bigger, but were pretty fun as well but it wasn&rsquo;t working like I wanted to. I was automating this whole process as soon as the recording with ffmpeg was done. So, it was getting very tedious in my system as well as on the event dashboard, because I had to create a new event every time I messed up while shooting the video.</p>
+<p>But, this was a very fun experience and I learned a lot about the potential of FFmpeg and Image Magick. Great pieces of software,I fell in love with these now. even though I did not use the MP4 files in the Documentation on the website lol, I&rsquo;d say all the struggle was worth it, and most importantly I enjoyed the process.</p>
+<p>Listing out some resources I read while writing the blog and while making whatever it was</p>
+<ul>
+<li><a href="http://trac.ffmpeg.org/wiki/How%20to%20speed%20up%20/%20slow%20down%20a%20video">Speed of your video</a></li>
+<li><a href="http://trac.ffmpeg.org/wiki/How%20to%20speed%20up%20/%20slow%20down%20a%20video">Extracting frames from GIF</a></li>
+<li><a href="https://www.tomshardware.com/reference/h264-h265-hevc-codec-definition">HEVC Codec Information</a></li>
+</ul>
+<p>Great thanks to <a href="https://arunmani.in/">Arun Mani J</a>. Do check his blog on <a href="https://arunmani.in/articles/creating-blurred-background-image/">ImageMagick</a></p>
+
+			</div>
+
+		</div>
+	</div>
+</article>
+<div class="footer wrapper">
+	<nav class="nav">
+		<div>Made with <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+<script>feather.replace()</script>
+
+</html>
