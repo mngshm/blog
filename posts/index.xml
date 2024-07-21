@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Bits and Bytes from random blocks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jun 2024 11:15:36 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 01:20:45 +0530</lastBuildDate>
     <atom:link href="https://mangesh.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinking</title>
+      <link>https://mangesh.xyz/posts/thinking/</link>
+      <pubDate>Thu, 18 Jul 2024 01:20:45 +0530</pubDate>
+      <guid>https://mangesh.xyz/posts/thinking/</guid>
+      <description>I am writing this while I&amp;rsquo;m travelling back to Bengaluru after spending a week at my home to get certificates and stuff done. While reading this new book of mine I am having some rush of thoughts in my mind about everything. I am writing this because, last night I broken my IEM cable and I cant listen to music, and somehow want to stop the overflow of my thoughts.</description>
+    </item>
     <item>
       <title>Feeling powerful with FFmpeg and Imagemagick</title>
       <link>https://mangesh.xyz/posts/love-ffmpeg-magick/</link>
@@ -97,7 +104,7 @@
       <link>https://mangesh.xyz/posts/sujmf/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       <guid>https://mangesh.xyz/posts/sujmf/</guid>
-      <description>Book Review - Surely You&amp;rsquo;re Joking Mr. Feynman So, those of you who like reading, physics and crazy brains. You might have come across a famous, physicist and he is called ~Dick Feynman~ Richard Feynman. He was a physicist, a curious, a natural problem solver. This blog is all about one of his biographical books named &amp;ldquo;Surely You&amp;rsquo;re Joking Mr. Richard&amp;rdquo;.&#xA;How I came across the book? I am a curious guy and I came across Richard Feynman through one of my friends Github Readme.</description>
+      <description>Book Review - Surely You&amp;rsquo;re Joking Mr. Feynman So, those of you who like reading, physics and crazy brains. You might have come across a famous, physicist and he is called Dick Feynman Richard Feynman. He was a physicist, a curious, a natural problem solver. This blog is all about one of his biographical books named &amp;ldquo;Surely You&amp;rsquo;re Joking Mr. Richard&amp;rdquo;.&#xA;How I came across the book? I am a curious guy and I came across Richard Feynman through one of my friends Github Readme.</description>
     </item>
     <item>
       <title>Resources I use</title>
